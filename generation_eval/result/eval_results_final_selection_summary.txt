@@ -1,0 +1,7 @@
+***** Eval results final_selection_summary *****
+BLEU = 6.786471845661805
+rouge1 = 34.14755626266883
+rouge2 = 12.025119893407432
+rougeL = 24.879338953140046
+rougeLsum = 24.879338953140046
+Data Count = 17.183133938642015

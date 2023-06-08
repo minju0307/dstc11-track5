@@ -1,0 +1,4173 @@
+
+U: Are their bathrooms adequately sanitized?
+U: Could you confirm that Maharajah Tandoori Restaurant has modern or fun décor?
+U: I need a quiet room, does the hotel have a good policy on loud noise?
+
+
+
+U: Do you know anything about the views from the rooms as I hope to have a nice view?
+
+
+
+
+U: I really want a spot with a good location.
+U: Are their rooms clean?
+U: Do they have a nice selection of non-alcoholic drinks?
+
+U: Is there a big room available?
+U: Yes but would it happen to have sanitized and clean bathrooms as well?
+
+
+U: Do they have sanitary restrooms?
+
+U: Does the restaurant serve alcohol?
+
+U: Do they offer a pleasant view of the restaurant's surroundings?
+
+
+U: Is the place quiet?
+U: I'm kind of a neat freak, how often does the hotel clean their rooms?
+U: Are the servings large?
+U: How are the sights through the windows at the Nirala?
+
+
+
+U: Is the view decent from the room?
+
+U: Does this place have good atmosphere?
+
+U: Are they known for reasonably priced drinks?
+U: Does that one offer any rooms with a good view?
+U: Do these places have a good view from my room?
+U: Is the free WiFi fast and reliable?
+U: Does it have a big room?
+U: First, can you tell me if the rooms are spacious?
+
+U: Does the Meze bar serve beer?
+
+
+U: Does it have excellently trained staff?
+U: Is the place quiet?
+U: Do you know if it has various non-alcoholic drink options?
+U: Do they offer good breakfast options?
+
+U: Does this restaurant have large portions for leftovers?
+
+
+
+U: Is it a quiet place?
+
+U: Are there pretty views in that area of the city?
+U: Do the rooms have good views?
+
+
+U: Does it have excellent Wifi connection?
+
+U: Does the Cambridge Belfry have great views from its rooms?
+
+
+
+U: Is their beer a good value for the money?
+
+U: Does the establishment have beautiful decorations there?
+U: Do they offer a variety of beer options?
+U: Do the rooms at acorn guest house have good views of the surrounding area?
+
+U: Is it near fun places to visit after I eat?
+U: Is the view from the room good?
+
+U: Are there any reviews that mention their bathrooms?
+U: I prefer a hotel that offers a beautiful view, does Lovell Lodge provide this?
+U: Which one has the top notch atmosphere?
+
+
+
+U: Do the maids pick up the rooms every day?
+U: Does this location offer customers a pleasant view?
+U: Could you first check the noise level there since I want a quiet room?
+
+U: I don't like the noise, so do you know if the hotel is in a quiet part of town?
+U: Do they have rooms that are nice and clean?
+U: I'd like to know if they have clean rooms or not.
+U: Is there a good view?
+U: Only if if they serve high quality sticky toffee pudding.
+
+
+U: Is it away from high traffic noisy roads?
+
+
+U: Is the view great?
+U: Does the hotel often have clean bathrooms?
+U: Are there any rooms with a great view?
+U: I am wondering, are the rooms at the Lenfield Hotel quiet?
+U: How is the view from the room I'd like a nice view
+U: Which places serves highly rated gyros?
+U: How would one rate the service quality at the Ask Restaurant?
+
+U: Does Kymmoy serve beer that's worth the money?
+U: Do they have reasonably priced beer?
+U: I prefer a place with very well-kept bathrooms.
+U: One last thing, could you tell me if it's in a quiet place?
+U: Is the staff well trained to be friendly, fast and flawless?
+U: Is there a nice view from the rooms at Cityroomz?
+
+
+U: Can you tell me whether Kymmoy has great staff and service?
+U: FIrst do you know if it's in a safe area and close to other attractions we might want to see?
+U: Are the bathrooms clean?
+U: Most importantly can you make sure it has a nice room and a great view?
+U: Does the restaurant have a outdoor seating option?
+U: Is this considered a nice, accessible location and neighborhood?
+
+U: I prefer somewhere that does not have dirty bathrooms. Are the bathrooms at Acorn House spotless?
+
+U: Do they have rooms that are peaceful and quiet?
+U: I hate a lot of noise.  Can you tell me if this place is quiet?
+
+U: Do they have clean rooms?
+U: I want a room with a nice view if possible, do you know of one?
+U: And are the rooms cleaned completely as well?
+
+U: Does this place offer nice views?
+
+
+U: Is the Ashley hotel in a quiet place?
+
+U: Which one is closer to the shows and parties?
+U: Do you know if they have good decor inside to suit the style of food they serve because I want to enjoy a meal where there is good decor ?
+
+U: Can you tell me if they offer a good selection of merlot?
+U: Do they do a good job at cleaning the rooms?
+U: Is it a calm and quiet environment?
+U: Also, is the Alexander Bed and Breadfast known for a quiet and peaceful atmosphere? I would need to know that before booking.
+U: Is the internet reliable?
+
+U: Does the kirkwood house offer a good breakfast, preferably a buffet
+U: Does this place offer good value for the cost?
+
+U: How is the view from their guestrooms?
+
+U: Can it provide a room with a great view to look at?
+U: Could I also ask that the room be exceptionally clean when I arrive?
+U: Are the portions big?
+U: Do they serve alcohol?
+
+
+U: Do they have a nice view?
+U: Which one is in a nice location?
+U: Wait, how are their prices?
+
+U: Is the room spotless?
+
+
+U: Can you tell me if the environment there is calm?
+
+U: How quiet is the environment?
+U: that is not spotty
+
+U: Is it in a quiet part of town?
+
+
+U: Do they have different Merlots for me to sample?
+U: Is the room clean?
+
+U: Do you know if Nandos City Centre has a good selection of beer for a fair value?
+U: Does El Shaddai have clean bathrooms?
+
+U: Is it a good value?
+U: Is the place peaceful?
+
+U: Do the rooms have good views at belfry?
+U: Does it have a nice view to look at?
+
+U: Do they charge a fee for wifi?
+U: Do they have good views from the rooms?
+
+
+U: Is it a good place with various beer options?
+U: How is the interior design?
+
+
+U: Does the place come with a good view?
+U: Do they have great service?
+
+
+
+
+U: Are the bathrooms clean in this hotel?
+U: Do they serve high quality Falafel?
+
+U: Do either one of those have good internet service- service that is reliable?
+
+U: Does this hotel charge for wifi services to its guests?
+U: What has better service?
+U: Are the rooms and the B&B quiet?
+U: How large are the rooms in this hotel?
+
+U: Where does the guest house overlook?
+U: Will the room be in a quiet area? I don't want much noise.
+U: Do they serve beer that is good value?
+
+
+U: Does it have a good view from the balcony?
+
+
+
+U: I need a spotless bathroom.
+U: Oh, I forgot.  Are the rooms there clean?
+U: is it quiet or not?
+
+
+
+
+
+
+
+
+
+U: Does it have a good view from the room?
+U: Do they serve alcohol?
+U: Which one has the best indoor decor?
+U: Has anybody complained about the WiFi being unreliable?
+
+
+
+
+U: Do you know if it has a lot of options for beers?
+
+
+U: Do they serve large portions?
+
+
+U: How's the view from the Caffe Uno location?
+U: What are the biggest rooms available for this hotel?
+
+
+
+U: Can you make sure they have large rooms available?
+U: Which is close to many different things to do?
+U: Can you find me a room with good view?
+U: Is it a large room?
+
+
+U: Are the portions of food served at this restaurant large?
+
+U: Does it have nice rooms with good views?
+U: How quiet is the hotel for sleeping?
+
+U: Which one of these is located in a safe neighborhood near local attractions?
+U: Will you book me a place with a clean room?
+U: ok but remember i prefer the location to have good outdoor seating area.
+
+
+
+
+U: Do you know if the Acorn Guest House has great views from its rooms?
+
+U: How large will the room be?
+
+U: Is it accessible and in a good area?
+U: Wait, is that hotel quiet?
+U: Is the acorn guest house a quiet place?
+U: Is the view from the room nice?
+
+
+U: Is the service great?
+
+U: Do they have high-quality borscht on the menu?
+U: Is it nicely decorated inside?
+
+U: Do they have a large selection of beer?
+U: Are they good value for the money and known for it?
+U: Do they have reasonably price decent beer?
+
+U: What kind of views does the guesthouse have from the rooms?
+
+
+U: Are the bathrooms clean and spotless at The Allenbell?
+
+
+U: Is there a lot of noise around there?
+U: Is the hotel known for not having loud noise?
+
+
+U: I was hoping to stay in a room that has a really nice view.
+U: Are they well known for their fondue?
+U: Is this place a good value for the money?
+
+
+
+
+U: I need a room with a spectacular view.
+U: Does it have great views from the rooms?
+
+U: Are the views from the room nice?
+
+
+
+
+
+U: Are there multiple beer options at La Mimosa?
+
+
+
+U: Does the room have a great view?
+U: is the area quiet?
+U: Are the rooms large there?
+U: Are the rooms nice and clean?
+U: Oh, are the rooms at the Ashley Hotel quiet, and soft sounding?
+U: First, can you tell me how quiet the room is? I prefer complete silence.
+
+U: Is it a quiet place?
+U: Are there many non alcoholic drink options?
+
+U: Do they have nice rooms with good views available?
+
+
+U: Are their rooms spotless?
+U: Do you know if it has great service?
+U: Does it provide outdoor seating?
+
+U: Do they have a nice view we can enjoy?
+U: Does Efes have a nice view?
+
+U: Given the price, I assume the interior is attractive, right?
+
+U: Are they both located in good areas around town with accessibility?
+U: Can I get a room with a good view at this location?
+U: Does the Lensfield have a large room?
+U: Which hotel is a better value for the money?
+
+U: Is the location features a lot of places to do?
+
+U: Does the Rice Boat serve good beer for a good price?
+U: Can you let me know whether the rooms at Finches Bed and Breakfast have good views of the surrounding area?
+
+
+U: If one requires a stable internet connection, would the Warkworth House be an acceptable choice?
+U: In your opinion, am I getting the best bang for my buck?
+
+U: Do they have nice rooms with great views?
+
+U: Are the views from the rooms nice?
+
+U: Do the rooms offer a view?
+
+
+
+U: Do the guesthouses offer a nice view?
+U: Before you book can you check to see if they are known for having quiet rooms or being in a quiet location?
+
+U: Does it have a room with a good view?
+U: Does Bangkok City have a welcoming vibe?
+
+U: Could you confirm that Bedouin has good and plentiful beer, relative to the price?
+
+U: Does this place have a great view?
+
+
+U: Does the Ashley Hotel charge guests a fee for WiFi?
+
+
+U: Do they have a reputation for hearty portions, or are they stingy with food?
+U: Does this restaurant offer outdoor seating?
+U: Yes, can I have a room with a good view of the surrounding area?
+
+U: Does the A and B Guest House have a good view?
+U: Can you make sure I get a room with a view of the ocean?
+U: Do they respond to guest requests quickly and cheerfully?
+U: Can you tell me if their eton mess is delicious?
+
+
+
+U: Would you please verify that they have clean rooms?
+
+U: Do any of those places have really nice decor?
+U: Does the hotel have large rooms?
+
+
+
+U: Is it a good place that has highly-rated Borscht?
+U: Will it be noisy there?
+U: Can you assure me that is has clean rooms?
+U: Do they have large rooms?
+
+
+
+
+
+
+
+
+
+
+U: That's the one. Can you also check if people have said that it has clean restrooms?
+
+
+
+
+U: Will you find me a place with a good view from the room?
+
+
+U: Does the Acorn Guest House have a nice view of the city?
+
+
+U: Does the restaurant have nice views?
+U: Does allenbell have clean bathrooms?
+U: Can you book whichever one has a good view from the room?
+
+U: That depends. Is the Alexander known for quiet rooms?
+
+U: How's the view from the Hobson's House?
+
+
+U: I would like a place that has various Sauvignon Blanc options. Does Restaurant Two Two have that?
+
+U: do they mention having a good view from the room?
+U: Can you tell me how the non-alcoholic drinks menu is there?
+
+
+
+
+U: Does the room have a great view to look at?
+U: Do they serve beer that is good value?
+U: Does the hotel have a good view of the surrounding area?
+
+U: Does the Holiday Inn have a pleasant view from the room?
+
+U: Do they have a good selection of beer at a reasonable price?
+U: Do you know anything about how clean the bathrooms are?
+
+
+U: Do they have good non-alcoholic drinks?
+
+U: Do they have good sweet and sour pork?
+U: That might work.  Are the rooms clean there?
+U: Is it nice and quiet there?
+U: I am looking for a place in a good location. Is the hotel in a good location?
+
+
+
+
+U: Is this in a location with pretty sights?
+
+U: Does Restaurant Two Two have a lot of Sauvignon Blanc to choose from?
+U: That sounds nice.  Do you know if there is outdoor seating there?
+U: Does the hotel have clean restrooms?
+U: does the room have a good view?
+
+U: Do they serve healthy portions here?
+
+U: Do you get a lot for the money? And tell me if there is a beer menu.
+
+U: Is it in a really popular area to visit?
+U: Do they have a room with a good view?
+U: Is their service top notch?
+U: Do they have various non-alcoholic drink options?
+U: Will the room have a beautiful view?
+
+U: Does it have a strong internet connection so that I can work during my stay?
+
+
+U: Is that hotel a good value or not? I would prefer if it were.
+
+
+U: How's the interior at the restaurant?
+U: Is the Acorn Guest House in a quiet section of town?
+U: Which one has the best service?
+
+
+
+
+
+U: Which place is the quiet one?
+
+U: Is this a quiet and peaceful area?
+
+
+U: Do both places have 4-star beds? It must be really comfortable?
+
+U: Does the room come with a nice view?
+U: I need constant Internet access - can they guarantee that?
+U: Yes, can you please find out if La Mimosa has many different beer options to choose from?
+
+U: Do they serve a high quality breakfast to the guests?
+U: I would like to sit outside do they offer outdoor seating?
+
+U: Does it have a nice outdoor dining area?
+U: Wonderful, could you confirm for me that the Acorn Guesthouse has a quiet vibe?
+U: Are there any big rooms available at the Lensfield Hotel?
+U: Will I be getting good bang for my buck by booking there?
+U: Are the staffs friendly people in both hotels?
+
+U: I prefer rooms that are clean, does this hotel have clean rooms?
+U: Does it offer reliable internet service?
+
+U: Do you know if the rooms are spacious here?
+
+U: How is the view from the room there?
+
+
+
+
+
+
+
+
+U: I need a restaurant that serves alcohol. Are any available?
+
+
+U: Is this place good value for the money?
+
+
+U: How stable is the WIFI there?
+U: Will I enjoy the view from my room here?
+U: Does the place have big room?
+
+U: Do they have any luxury rooms with special views?
+
+
+U: What are their beer prices like? I'd like something reasonable
+U: Is there nice outdoor seating?
+U: Are the rooms large and comfortable? My kids need space to walk around.
+
+
+U: Can you tell me which of these hotels is in a better location?
+
+
+U: do they have big rooms
+
+
+
+
+
+U: Do they offer indoor dining with an appealing view?
+U: I want a place that is quiet.  Is the Alexander a quiet place?
+U: Before I book, how is the view from the room?
+U: Does the establishment have beautiful decorations there?
+
+
+
+
+U: How are their prices?  I want to stretch my dollars!
+
+
+
+U: Yes, does this restaurant serve alcohol?
+U: Is it in a safe neighborhood and within a short distance to other area attractions?
+
+
+
+U: Does the Kirkwood House have a variety of good options for breakfast available?
+U: Is Acorn Guest house in a good location?
+
+
+
+
+U: Does the ashley hotel have spacious rooms?
+U: Do you know if there's a good view there?
+
+U: Does the Acorn Guest House have a nice view of the city?
+U: Do you know if it has great service?
+
+U: can I know if the rooms have good views?
+U: Is their service great?
+U: Does it have nice indoor decor?
+
+U: Does the hotel have good value for money overall?
+
+
+U: Is Alexander Bed and Breakfast located in a quiet area?
+
+
+
+
+
+
+U: Is it high quality wifi with a stable connection?
+U: Would you prefer a good seating area in the outdoor place?
+U: What is the view like from the guesthouse?
+U: Do they serve high quality unagi?
+U: Can you tell me how big the room is I need a lot of space?
+U: Does the restaurant serve alcohol?
+U: Do they have pizza for a great value?
+U: Are their rooms known for tidiness?
+U: Does it have a good internet connection?  That's another thing I need.
+
+
+U: Is it a quiet area at the Acorn Guest house?
+
+U: What are the decorations like?
+
+U: Are the bathrooms there not dirty?
+
+U: Does it offer a nice view from the rooms?
+
+
+
+U: Does this restaurant have outdoor seating?
+U: Does Anatolia and Efes have a nice view?
+U: Can you tell me if they have a nice view from the room?
+
+
+U: Can you give me any information about their portion sizes? I'd like something good for the value
+U: Does the Acorn Guest House have nice views of the city and other areas?
+U: Does the room have a good view?
+
+U: Is there reliable and consistent internet?
+U: Are there a lot of choices for beer here?
+U: Which place has quality battered cod?
+
+
+
+
+
+U: Which one is in a nice location?
+U: Is it a nice room with a good view?
+
+
+U: Do you know if it has great service?
+U: Is it a good deal for the money?
+U: What about the housekeeping there -- are the rooms kept spotless?
+
+U: Does it have a nice view?
+
+
+
+U: I must have a room with a great view, can the Acorn Guest House provide that?
+
+U: Has the room been thorougly cleaned?
+U: Do they have good WiFi?
+
+U: Is it in a cool part of the city?
+U: Yes, please. Is the view pleasant and enjoyable from the guest house?
+U: I need to make sure the place is not overpriced and has bang for my buck?
+
+U: Which of these have a wide variety of non-alcoholic drink options?
+U: I need to enjoy the view from the room, will I?
+U: How good are the views from the rooms?
+
+U: At this hotel are the rooms large because I prefer a large room?
+
+
+U: Are the rooms cleaned thoroughly?
+U: Is the Ashley Hotel a quiet place?
+
+
+
+U: Can you check to see if they are known for having great service?
+U: Does the Gonville offer rooms with a good view?
+
+U: Can I get a room with a good view?
+
+
+U: Is Home from Home known for offering a quality breakfast to their guests during their stay?
+U: I meant to ask does this place have a beautiful view to take in the sights?
+U: I prefer a good view; does it have nice and stunning views from the room ?
+U: Do you know if this hotel is in a good area?
+
+
+U: Did you book a room with a good view?
+
+
+U: Do they have classy rooms with inspiring views?
+
+U: Is the internet reliable and strong?
+
+
+
+
+U: Do they offer a number of non-alcoholic beverages?
+U: How are the views from the rooms at Alexander Bed and Breakfast?
+U: Does this place have a nice view from the room?
+
+
+U: does this hotel have a great view in its rooms?
+U: Does it have a room with a beautiful view?
+U: Is the view great?
+U: The room is it large as I had requested?
+
+U: Are the rooms big?
+
+
+U: Momentarily. Can you tell me if they have an Irish breakfast? I love those.
+U: Do they give you a room with a lot of space?
+
+
+
+U: Does it have nice indoor decor?
+U: Is the location nice?
+
+U: I get pleasant sights from the room correct?
+U: Could you first tell me is it located in a quiet area?
+U: Does it have a nice view?
+U: Are they known for having exceptional service?
+
+
+U: How big are the rooms?
+U: Is the staff their nice and polite?
+U: Does the bridge have a reliable internet connection for my business needs?
+U: i need a  place that serves a good portion of food
+
+U: Does it have a good location?
+U: Does this place offer a good view from my room?
+
+
+U: Does Sala Thong serve generous portions?
+
+
+U: Does any place have big rooms?
+U: Can you tell me first if the restaurant gives good value for money as far as the portion size goes?
+
+U: Is the hotel quiet 24/7?
+U: Do they have good views from the rooms?
+U: I want to enjoy the view from my room, will this work?
+
+U: Can I get a room with a nice view?
+U: Can I see through the window?
+U: Do they serve alcohol?
+U: Is the hotel quiet?
+U: Does Pizza Hut Cherry Hinton serve wine at a good value for the money?
+U: Does the lensfield hotel have big rooms?
+U: Is this a place with good views?
+
+
+
+
+U: Does it get good scores for cleanliness?
+U: Does this place offer good portions of food?
+
+U: Will you tell me if their rooms have good views?
+U: Is it in a quiet location?
+
+U: Does this place serve alcohol?
+
+U: Do they offer rooms in a quiet atmosphere?
+U: Will the room there have a good view for me?
+U: Does it offer a good bang for your buck?
+U: How desirable is the Acorn's location?
+
+U: Are there good views available from the room?
+U: How nice is the view?
+U: Are the portions large?
+U: Does Gonville and Lensfield have good views from your rooms?
+
+
+U: Is the service really good here?
+U: Does this restaurant serve alcohol?
+
+U: Are they known for clean rooms?
+U: Do they serve alcohol at that restaurant?
+
+U: Can you confirm how spacious the rooms are at Ashley Hotel?
+U: How clean are their rooms?
+U: Do the rooms there have a great view?
+U: Does this restaurant have beautiful decorations?
+
+
+
+
+
+
+
+
+
+
+
+U: Are the beers a good value?
+U: Does it have a welcoming vibe?
+U: Do they serve beer that's good value?
+U: Are they a quiet place?
+
+U: Does it have good priced beet?
+
+
+U: What other services are included with booking?
+U: Do either restaurants offer a good view from the tables?
+
+
+
+U: Is the dine in nicely decorated?
+
+
+U: Do they have a nice area for outdoor dining?
+
+
+U: Which one is in a better location?
+U: Do they have various non-alcoholic drink options?
+
+U: Do you know if they have a good view from the rooms there?
+
+
+
+U: How good is the internet connection there?
+U: Can I see outside the window?
+
+
+U: Do either of those places have large rooms?
+
+
+U: Do their rooms have a good view?
+
+U: Is the Acorn Guest House located in a quiet area?
+U: Will there be a good view from the room?
+U: Is the room easily accessible?
+U: Wait. How quiet is the Acorn Guest House?
+U: Do they have well cleaned rooms?
+
+U: Is it in an area where the view from the rooms would be nice?
+
+U: Are the rooms pretty big at the Ashley Hotel?
+
+U: How about their drink variety?  Is it any good?
+
+U: Same the range
+U: Does it have a good view from the rooms?
+
+
+
+U: Are the bathrooms in pristine condition?
+U: Do they have really nice views from the room there?
+
+U: Will I be able to see pleasant sites outside my window there?
+
+U: Do you know whether the Acorn Guest House is a quiet place to stay?
+U: Do they have a good breakfast selection for the guests?
+U: Do they have a few non-alcoholic drink options?
+U: Can you tell me if they have good breakfast options?
+U: Does this hotel offers rooms with a good view?
+U: Is it quiet at the Ashley?
+
+U: I want to stay somewhere soft sounding. What is the noise level at The Acorn Guest House?
+U: Is there service rated very good here?
+
+U: Is it in a good location in town?
+
+
+U: Does the room have a beautiful view?
+
+
+
+U: do their rooms have a great view?
+
+
+
+U: Do they have highly rated reviews for reasonably priced drinks?
+
+U: How do they rate on service?
+U: What is the view from the rooms like?
+U: Is the El Shaddai hotel a nice place to stay and worth the money?
+
+
+
+U: How quiet is the area here?
+U: Is Eraina in a good location near the fine shops?
+U: Have people ever complained about their rooms being dirty?
+
+
+U: Is the Lensfield Hotel a quiet hotel?
+
+U: Is this a place with good views from the guest rooms?
+U: Is the indoor décor modern or rustic?
+
+U: Is it nice and quiet there?
+U: I prefer the place quiet, will this do?
+U: Can you tell me anything about the view from the rooms?
+
+U: Can you tell me if the Cambridge Belfry is known for providing a great value?
+
+
+
+
+U: Does The Kirkwood House offer very clean rooms to its customers?
+U: Does Allenbell have a stable internet connection because that would be better for me.
+
+
+U: Make sure my room is always spotless.
+U: I prefer a hotel that is quiet. What is the noise level that I can expect at Alexander Bed and Breakfast?
+U: Can you tell me the quality of the bathrooms, I want spotless one?
+U: Is the decor inside nice?
+
+
+
+U: I would prefer to stay in a hotel that has a reputation for being quiet. Are there many noise complaints at Acorn Guest House?
+U: Is it quiet? I need an escape
+U: Do they have big room?
+
+U: Does this place have good breakfast options?
+U: Do they offer fair portion sizes ?
+
+U: Is it in a quiet area?
+
+
+U: I'm wondering if they serve alcohol there, do you know?
+
+U: I'd like to know which restaurant has more highly valued drink options for the money.
+
+
+
+U: yes make sure you serve non-alcoholic drink
+
+U: Can you book a room with an enjoyable view?
+U: Are the restrooms sanitized?
+U: Is this hotel have a good location in the town?
+
+
+U: Is the room quite large there?
+U: Do they have great service there?
+
+U: Is there a good view from their rooms?
+
+U: Is the bathrooms clean there? It has to be spotless!
+
+
+U: Does the Lensfield Hotel have any big room's available?
+
+
+U: Do you know if they are in a nice location and have pretty views from the rooms?
+
+U: I would like to have nice things to look at from my room so can you check on the area for me?
+U: Can you first tell me if they are known for having clean rooms?
+U: Are the decorations classy?
+U: How appealing are the views from most of their rooms?
+U: Can you tell me if they have really nice views from their rooms?
+
+U: Does it have clean bathrooms for its customers?
+
+
+
+U: Confirm if the view from the room is great?
+U: Is the web connection decent here?
+
+U: Is it in a good location?
+
+
+
+
+
+U: Yes, do they offer a big continental breakfast or buffet?
+
+
+U: How nice is the indoor décor at Pizza Hut Fen Ditton?
+
+U: Will my room have a decent view?
+U: Does it have an extensive non-alcoholic drink menu?
+
+U: Which of these places have beautiful decorations?
+U: Are pleasant and enjoyable sights near the hotel available?
+U: Do they serve large portions?
+
+U: First I need to know if they have rooms available with a good view?
+
+
+U: Does this place have a nice view?
+
+U: Do they mention anything about having rooms with a good view?
+
+U: Does Fitzbillies Restaurant serve alcohol?
+U: Do you know if it has a nice view?
+U: Can you tell me whether the non-alcohol drink menu at Curry King is extensive?
+U: Do you think it provides a good value for the price?
+U: I'm a germaphobe, are the bathrooms cleaned pretty well?
+
+
+U: Can you tell me if the room will be a quiet one?
+U: Can you check if that have any big rooms? Like ones larger than the typical room?
+U: Which one of those has the best chow mein?
+
+U: Can you tell me which one of those would have the best decorations?
+U: I'd like to know if they have affordably priced beer?
+U: Does the bed and breakfast have rooms with a good view?
+
+U: Do the rooms there have good views?
+
+U: Which of those has a good value for the money spent?
+
+
+
+U: Can you tell me whether or not the Pipasha restaurant serves alcohol?
+U: Do they have reasonably priced merlot?
+U: Is this restaurant in a nice location?
+
+U: Do the rooms have a great view?
+U: Does it have nice indoor decor?
+U: Can you tell me if they have nice views from the rooms?
+
+U: I want to have a good view.  Are there rooms with views here?
+
+U: Do they have a friendly and responsive staff?
+
+
+U: Is there a room here that specifically highlights the view offered?
+
+U: Do they serve non-alcoholic drinks?
+
+
+
+
+U: Is this location a quiet place?
+U: Are there any large rooms available?
+
+
+
+U: Does the room have a nice view?
+U: Does this place have clean bathrooms?
+U: Does it offer spacious rooms?
+U: Is this hotel relatively on the quiet side?
+
+U: Before I book can you check to see if the bathrooms there are spotless?
+
+
+U: Is the area calm and quiet so I can relax?
+
+
+U: Are they in a quiet area because that is important?
+
+
+
+U: Are the rooms there really spotless and clean?
+U: Does the table have a nice view?
+U: Can you tell me whether the rooms there have a great view?
+
+
+U: Are the bathrooms kept clean?
+U: Does the hotel have a view of the beach or city lights?
+U: Do they have an outdoor patio area where I could comfortably dine alfresco?
+U: I prefer somewhere with a great view. Does Cambridge Belfry have this?
+U: Does it have good outdoor seating?
+
+U: Okay, low price is important, but I also want some bang for my buck. Which is a better value?
+
+U: Can I get a room with a good view?
+U: Do they serve alcohol?
+
+U: How quiet is the Acorn Guest House?
+
+
+U: Which one has the best view?
+U: Do they have large rooms available?
+
+
+U: Is it noisy there?
+U: Does that restaurant have a nice view?
+
+
+U: First, would you check whether the menu there includes a selection of beer at a good price?
+U: I'm looking for a good value; which do you suggest?
+U: Do they have a lot of drinks to choose from?
+
+
+U: Does it have lots of beer options?
+U: What is the atmosphere like at India House?
+U: Is there a good view from the room?
+U: Is the Kymmoy highly rated for their reasonably priced drinks?
+U: Does it have decently priced beer?
+
+U: Does the cambridge belfry offer good value for the price?
+U: How is their service rated? I'd prefer good service.
+U: Does the Restaurant Two Two get high ratings for its reasonable prices?
+
+
+
+U: Does the room have a clean bathroom too?
+
+U: Can I get a really great view of the city at this restaurant?
+
+
+U: Does they offer a seat with a nice view?
+
+U: What non-alcoholic drinks are available?
+U: Are there good vibes inside the restaurant?
+U: Does this place have a good view or not?
+
+U: Can you tell me which of these options have a good atmosphere?
+U: Does The Slug and Lettuce have nice indoor decorations?
+
+U: Does it have cheap chardonnay there?
+U: Do they always keep the guest rooms clean?
+
+U: Which one has better service ratings?
+U: What about a good view? I need someplace where I can see what's around me.
+
+U: Does allenbell have especially clean bathrooms?
+U: Do they make good chow mein there?
+U: Is the internet connection stable there?
+
+
+
+U: Does this place have big rooms?
+
+
+
+U: Do they have a lot of good beer selections?
+U: Is it in a nice location?
+U: Do they have nice views from the room?
+
+U: Are the rooms at Finches Bed and Breakfast keep to a high standard of cleanliness?
+U: I would like to know if the restaurant serves alcohol?
+U: Do they have a good beer selection?
+
+
+U: Do they have nice indoor decor?
+
+
+
+U: Before that, does this hotel have clean rooms?
+
+
+
+U: Is the beer a good value?
+U: Can you make sire it's been thoroughly cleaned and sanitized?
+
+
+
+U: Is their service first-class too, because I insist on friendly servers?
+U: Does it have a nice view?
+
+U: I'm trying to get the most bang for my buck, does that have the best amenities for that price range?
+U: Do they have great service?
+
+U: Which one gives food in large amounts
+U: Is it in a quiet area?
+U: Can you book me a room with a great view?
+U: Actually, do they have reliable internet? I have business and personal matters to take care of there.
+U: Does this place have sanitized and pristine restrooms?
+U: Do they have any rooms with pretty views?
+U: I need a place with great service.
+U: Is there a nice view that can be seen from the dining area?
+U: Are the rooms at that place pretty spacious?
+
+
+U: Does it have a good view?
+U: which of these restaurants have the friendliest staff?
+U: Which of these two hotels has a breakast buffet that includes everything from eggs and cereal to fresh fruit and pastries?
+
+U: Do they have a room with a good view?
+
+
+
+
+U: Does the Avalon have rooms with extra space in their accommodations?
+
+U: I prefer having a larger room. Can you tell me the size of the room that I booked?
+U: Do they have drinkable Merlot at an affordable price?
+
+
+
+U: Is there a good view from the hotel room that was booked for me?
+U: Is the internet stable?
+
+U: Does this restaurant have a good location that's close by to other attractions?
+U: Does the Acorn offer nice rooms with great views?
+
+
+U: Is that for a large room? I'm looking for a big room.
+
+U: Is the acorn guest house in a quiet area, I need peace and quiet
+
+
+
+
+U: Is the area it is at a quiet location?
+U: Do they have great service?
+
+U: Silence is important for my stay; does this location provide that?
+U: Does the internet there stay up?
+U: Do they have rooms with pleasant views?
+U: I would like to dine someplace with pleasant decor so can you check on that for me?
+
+
+U: Do they have nice views?
+U: Does this  guest house have a great view?
+U: I insist on having a clean guest room. What do you know about the level of cleanliness there?
+
+
+
+U: Do you if their rooms are quiet?
+U: Are the rooms clean?
+U: Which of these are known for having pleasant interiors?
+
+U: Can you tell me if they have an incredible waitstaff here?
+
+U: Is the view nice?
+U: Does the internet have good uptime?
+
+
+
+U: What is the view like from the window?
+U: Which option offers the better view?
+U: Is the wifi good?
+U: Do they have a good selection of beer?
+
+U: That depends. Is there a big room available?
+
+U: What is the size of the mattress?
+U: Do they do a good job at cleaning the rooms?
+U: Is their service fast and complete?
+
+
+U: Are the rooms super clean?
+
+U: Does the hotel offer attractive views?
+
+U: Is Shanghai Family Restaurant known for having a decently valued Ma Po Tofu?
+
+
+U: Is it located in a good place in the city?
+U: I only like really clean rooms
+
+U: Does it have clean rooms?
+U: Are there large rooms in The Lensfield Hotel?
+U: What can you tell me about the interior decor there? Is it tastefully appointed?
+
+U: What do the reviews say about the size of their potions?
+
+
+
+
+
+U: Will the mattress be comfortable?
+U: Are the rooms there clean?
+
+U: How attractive are the views out its windows?
+
+U: Do they mention a strong and reliable internet connection?
+
+U: Is the view nice from there? I want to enjoy pleasant sights.
+U: Is the bed comftroable?
+
+U: Is this a place with a nice view from the room?
+U: Does Clowns Café offer a good calzone at a good price?
+U: Does it have a nice view?
+
+U: Is the area quiet for the most part?
+U: Is it in a peaceful, quiet location?
+U: Is the internet stable here?
+
+
+U: Are the bathrooms there clean?
+
+U: Do you know how stable the Internet connection is at the Ashley Hotel?
+
+U: Do they have nice indoor decor?
+
+
+U: Do you know if it has a nice view?
+U: Will I have a nice view from my room if I stay there?
+
+
+
+U: Does it offer any good view?
+
+
+
+U: Will I enjoy the view from my room?
+U: Does Shiraz have any outdoor seating?
+U: What can you tell me about the views at the Missing Sock?
+
+
+
+
+
+U: Are the rooms very clean?
+
+
+
+U: Your internet is the very past?
+U: Yes I would like to know if the Grafton Hotel Restaurant serves alcohol?
+
+
+
+
+
+U: Do they have a nice view?
+
+U: Are the portions big?
+U: Can you confirm that the Missing Sock is well known for serving plentiful portions?
+
+
+U: Do they have a welcoming staff?
+U: Is it known to have clean rooms?
+
+
+
+
+
+
+U: Is it a quiet place to stay?
+U: Is it quiet?
+U: Does this location have a large room available?
+
+
+U: What kinds of things will I be able to see from my hotel room?
+U: Would I be able to enjoy a nice view while I eat there?
+
+U: Is this a place with big guest rooms?
+U: Could you tell me if the rooms are very quiet?
+
+U: Which place has the best view from the room?
+
+
+
+
+
+U: Does it have clean rooms?
+
+
+
+
+U: Do they have a good selection of beer?
+U: Do they have a superb quality of Schnitzel?
+U: Can I have beer there at a reasonable price ?
+
+U: Is the Allenbell consistent about cleaning their bathrooms?
+U: Does Grafton Hotel Restaurant serve alcohol?
+U: That sounds good? Do they have Bouillabaisse? And is it reasonably priced?
+
+
+
+U: Do you know if it has great service?
+U: Do you know if Hobsons House has bathrooms that are clean?
+U: Does it have a lovely indoor ambiance?
+U: Can you also provide any additional details about the indoor decor?
+
+
+
+U: Is there a good view from their rooms?
+
+U: Can you tell me if the view from the room is nice?
+
+
+
+
+U: Do they offer any non-alcoholic beverages?
+
+
+U: Is the atmosphere at Kymmoy relaxing?
+U: Is it a quiet place?
+U: Do they have rooms with windows that have a nice view?
+
+U: Is this location soft on noise?
+
+
+
+
+U: Do they have a good selection of different types of beer?
+
+U: Do you know if the Express by Holiday Inn Cambridge has rooms with good views?
+
+
+
+U: Do you get a lot for what you spend?
+U: Does this place have big rooms?
+
+U: Can you provide any information about their beer selection
+U: Are the rooms clean?
+
+
+
+
+U: Does my room have a good view?
+U: How good of a value for the money is their beer?
+U: Is Eraina located in a safe and accessible neighborhood?
+
+
+U: Can you assure me the location will have a great view for me to look at?
+
+U: I want to make sure the bathrooms are really clean there first.
+
+
+U: Is their waitstaff capable of providing efficient and high quality service?
+U: Can you book me a large room?
+
+U: Does it have a nice view?
+U: Do you how much the hotel offers in terms of bang for your buck?
+U: Is it a quiet place to rest?
+
+
+U: i want clean rooms only, will this do?
+
+U: Does this restaurant offer a variety of beer options?
+U: Are there any charming sights visible from the hotel?
+U: Do they mention having good views from the room?
+
+
+U: Do you know if Acorn Guest House offers views from its rooms?
+U: Does it offer a wide selection of non-alcoholic drinks?
+U: Can you tell me whether A and B Guest House offers great views from their rooms?
+
+U: I am looking for a hotel with very clean rooms.
+U: Are the rooms spacious?
+U: May I check if they have good views?
+
+U: Is this hotel located in a quiet area?
+
+
+U: That will be great, do they serve alcohol as well?
+U: Is the view nice?
+
+
+
+U: I would prefer the one that is in the quieter part of town.
+U: Do both the restaurants serve non-alcoholic beverages?
+U: Does it have a good view of stuff?
+U: I hate feeling cramped - are the rooms big enough?
+U: Is this location quiet?
+U: Is this cheap place a good value for the money?
+U: Which one offers more bang for your buck?
+U: Does this hotel come with a good view?
+U: Does it serve good portion sizes?
+U: Do they have a large beer selection?
+
+
+U: Is the internet service reliable at Warkworth House so I can get some work done during my stay?
+U: Does the Loch Fyne have reasonably priced drinks?
+
+U: Do they offer big rooms here?
+
+U: Do these hotels have clean bathrooms?
+U: Does The Cambridge Belfrey provide good value for the money?
+U: How fresh are the dumplings at the Ugly Duckling?
+U: I'm looking for somewhere with highly rated breakfast items, does the Avalon mention anything about that?
+U: Does it have a clean bathroom?
+
+
+U: Do any of them offer outdoor seating?
+
+
+
+
+
+U: Does this place have nice inside decor?
+
+
+
+
+U: Are the rooms equipped with nice views?
+
+U: Is the Acorn Guest House located in a quiet area?
+
+
+
+U: Are the rooms clean and spotless?
+U: Do those places come with a stable internet connection?
+U: Does the hotel offer more comfy beds than the bed and breafast?
+U: Is their beer a good price for the money?
+U: Are there good views from the rooms in The Alexander Bed and Breakfast?
+U: How are the sights there?
+U: Does this hotel have a nice view?
+
+U: Do the reviews mention nice interior decorations?
+U: Which one of them is more centrally located?
+
+U: Do you know if it's a quiet place to stay at?
+
+U: Does The Cambridge Belfry provide a decent value for my money?
+
+
+
+
+
+
+
+U: Are they known for having a big variety of drinks?
+U: Does this bed and breakfast have a good view from its rooms?
+U: How are the wines rated at the Cambridge Chop House?
+
+U: Does it have a nice view?
+
+
+U: Are there good views from the rooms there?
+
+
+U: Can you let me know whether Cocum offers nice views?
+U: Is this a quiet hotel?
+
+
+
+U: Does it have a nice view?
+
+
+
+
+
+
+
+U: Are they in a nice location?
+
+
+U: Are their beverages reasonably priced?
+
+U: Do they maintain a nice, quiet environment?
+U: Is this a interesting restaurant to look at through a window?
+U: Does City Centre north offer rooms with good views?
+U: Do they have a good view from the window?
+U: Do they have sodas, teas and other non alcohol drink choices?
+U: Do they mention having a good view?
+
+
+
+U: Is it nice and quiet there?
+U: Can you first find out whether the hotel has a good view?
+
+
+
+
+
+U: Is the area this hotel is in quiet?
+U: Are the rooms clean, I need a clean room
+U: Are the rooms there large?
+
+
+U: Is this hotel a good value for the cost?
+
+U: Is there a nice natural view ?
+U: Can you tell me whether clean bathrooms are available at the Allenbell Guesthouse?
+U: Does this location have rooms with pleasant views?
+
+
+U: Does Rosa's bed and breakfast have clean rooms?
+U: Is it a good place that offers a big room?
+
+
+
+
+U: I want a quiet room so can you check to see if that is possible?
+
+U: Do they offer good service?
+U: Does the Royal Standard have delicious Leeks Vinaigrette on their menu?
+
+U: Is this hotel a good value for the money?
+U: I want it to be relaxing. What is veiw like?
+U: I would book only if there is no complains about the cleanliness of their bathroom.
+U: Will I have a good view from the room?
+U: Yes please book it but can you please tell me if this will be a quiet place?
+U: Is it a quiet place?
+
+
+U: Do either of them mention anything about having large rooms?
+
+U: Can you confirm whether the A and B Guest House offers good views of the surrounding areas?
+U: Yes, do you happen to know if they have rooms that are quite more spacious than the others?
+
+U: Does either the Gonville Hotel or University Arms Hotel have friendly staff?
+U: Which has the better location for site seeing?
+U: Does the internet go down here?
+
+
+
+U: Which one has the best views?
+
+U: Does their internet stay stable all day?
+U: Do they have nice sights near by?
+
+U: I would like the place to be known for the food being a good value for the money. How does Cotto rate?
+U: i need a big room
+U: Does this place have a stable internet connection?
+
+U: One more thing. Are the rooms quiet, and is the environment calm and relaxing?
+
+U: Is the room too cramped?
+
+
+
+
+U: Are there any pleasant sights from the accommodations?
+U: Is there an additional fee for wifi at the Bridge Guest House?
+U: First, what kind of view does it have?
+
+
+
+U: Do they have a pleasant, outdoor dining section?
+U: does it have a good view?
+U: Does it have good value for what I'm paying?
+
+
+
+U: Is the Acorn guesthouse a quiet place?
+U: Tell me if the rooms are dirty there?
+U: Could you tell me if this room is one with a great view?
+U: Is the staff nice?
+U: Does it have a good view from their rooms?
+U: How's their beer selection?
+
+
+U: Sounds good. I require a clean room.
+U: Does it have nice indoor decor?
+U: Do you know if A and B Guest House has attractive views from its rooms?
+
+U: Do they have rooms with good views?
+U: Do they serve alcohol at this restaurant?
+U: It's fine. I just need to know if it has a big room or not.
+U: Could you find a place that has a good view from the room?
+
+U: Do they have any large suites available?
+U: Do they have clean and spotless rooms here?
+U: Is it in a convenient and accessible location?
+U: Are they in nice locations?
+U: Are the housekeeping staff great at paying attention to detail?
+
+U: Does this hotel have large rooms?
+U: Sounds good. Are there comfortable beds here?
+
+
+
+
+U: Do they have a reputation for great service?
+
+U: Do they mention a stable internet connection?
+
+U: Is it in a quiet area?
+
+U: Do they have good views from the room?
+U: Do they have attentive service?
+U: I need to know if it has a clean bathroom first
+
+
+
+
+
+U: Are the rooms spotless at the Cambridge Belfry and does housekeeping pay attention to detail?
+
+U: Is the Alexander Bed and Breakfast a quiet place?
+
+U: Cleanliness is very important for me. Does the place have clean rooms?
+
+
+U: Are the decorations nice?
+U: I also would like it to be in a quiet area if possible.
+
+U: Do they serve alcohol
+U: I meant to ask about how noisy the place is. Is this guest house peaceful and quiet?
+U: Are they located in a quiet area?
+
+U: Do they have rooms with beautiful views?
+U: How are the portion sizes at both?
+
+
+U: Does the room have a view?
+U: Is this place known to be quiet?
+
+
+U: Does La Margherita have good reviews for their Merlot and have many Merlot options?
+U: Does the Alexander Bed and Breakfast have a nice view from the room?
+U: Do the rooms have good views?
+U: Does it have a nice view?
+
+
+
+U: Does the lensfield have a quiet atmosphere?
+
+
+U: Do they serve heaping portions of food here?
+
+U: Does Allenbell have good internet connection speeds?
+
+U: Can I sit outside at this restaurant?
+
+
+
+
+U: I love to try lots of different kinds of beer. Does Wagamama offer a large variety of beers on their drink menu?
+
+U: I need a really super clean bathroom; do they have that?
+U: Do both places serve highly-valued beer for a good price?
+U: Which of these are known for good service?
+
+U: Sure but do they have spotless clean bathrooms?
+
+
+
+U: Are the sights nearby nice?
+
+U: Does the Cambridge Belfry offer spotless rooms to its guests?
+
+
+U: Is this place nice and quiet?
+U: Do they have nice rooms with a great view?
+U: I hate loud noises - is it a peaceful environment?
+
+U: Is this hotel known for having clean rooms?
+U: Is it quiet and peaceful there?
+U: Do they mention having a good view?
+U: About that restaurant, do they make dumplings with fresh local ingredients?
+
+
+
+
+
+U: Do either of them have a nice area set up for outdoor dining?
+
+U: Do the rooms have good views?
+
+
+
+U: Does the Avalon have big rooms?
+U: What kind of views do the currently available rooms have?
+
+
+
+
+U: I am looking for a small quiet place to stay
+U: Do they clean the bathrooms thoroughly at Allenbell?
+U: Are there any pleasant sights from the accommodations?
+
+
+U: Please tell me the bathrooms are clean.
+
+
+
+U: Do the reviews mention anything about a good view?
+U: Do they mention having a friendly staff?
+U: Does the La Margherita feature an outdoor seating area?
+
+U: Do either guarantee a stable internet connection?
+
+U: Do they have nice indoor decor?
+U: How close is the hotel to the train station?
+U: Can you tell me if the rooms have a high clean score?
+U: Is that a pretty quiet place to stay?
+U: Is the restaurant located in a nice area?
+U: Would you please verify that it's a quiet place?
+U: Does it have a good view from my room?
+
+
+
+U: Do their rooms come with a view?
+U: Is the beer a good value?
+
+U: I need to get a large room. Do they have those?
+
+U: Is this place a good value for the money?
+U: is it in a quiet location?
+U: Is the inside decorated beautifully?
+
+U: Do they have an attractive interior?
+
+
+
+U: Is the place quiet and comfortable?
+
+U: Could I get a room that is spotless?
+U: Are the rooms cleaned daily?
+U: Do you know if they have outdoor seating?
+
+
+
+U: Can you tell me if the house keeping is thoroughly done here?
+
+U: Is the Alexander a soft sounding place?
+U: Would I be able to get a cocktail here?
+
+U: Do they have a big beer selection there?
+
+
+U: Do they have nice food portions?
+U: Does the room have a great view?
+U: Is the value of accommodation a good one for the price?
+U: I want a big room - does this hotel have that?
+U: Does the ashley hotel have a quiet atmosphere?
+
+
+U: Does it have good service?
+U: Oh one last thing, is the hotel pretty quiet? I really hate random noises or chatter.
+
+U: Does the room have a nice view?
+U: I really prefer a nice location; can you make that happen?
+U: Is the view from the room okay?
+
+U: Before I make that decision, I want to know if they have large portions.
+U: Does Sala Thong offer large portion sizes?
+U: Do the rooms overlook a nice view?
+
+
+U: Will I enjoy the view from my room?
+
+
+U: Do they have Sauvignon Blanc at reasonable prices?
+
+
+
+U: Does this hotel have clean restrooms?
+
+
+
+
+U: Is the stay there worth them money?
+
+
+U: Oh, can you say if  the restaurant offers good beer for the price?
+
+
+
+
+
+U: Is their service any good?
+
+U: Does this restaurant have a good non-alcoholic drink menu for our kids?
+
+U: I want to enjoy the view from my room, will this work?
+
+U: I'd like something with a good view, does lovell lodge have one?
+U: Do you know if the Galleria Restaurant is nicely decorated indoors?
+
+U: Do you know what the view is like from the rooms?
+
+
+U: Does it offer a good selection of non-alcoholic drinks?
+
+U: Okay, are the beds comfortable?
+U: Is it ?a soft sounding place
+U: Is the Acorn Guest House a quiet place to stay at?
+U: Is there a good view of the surrounding area there?
+U: Are the reviews high for their sweet and sour pork?
+
+U: Will there be a soothing view out of my window?
+
+U: Is there a fee at the hotel for using the wifi?
+U: Hoping I won't end up with a dirty room?
+
+
+
+
+U: Does this room have a good view?
+U: Does it have a good selection of beer?
+U: Do they have good priced beer?
+
+U: How is the view from the rooms?
+U: Which of these is known for having pleasant views?
+
+U: Can you tell me how large the rooms are at the Lensfield Hotel?
+
+U: Do they have a good selection of reasonably priced beer?
+U: Is the view nice from the room?
+U: Can you tell me if the rooms are clean?
+U: Will I receive the most amenities compared to surrounding hotels?
+
+
+U: Are the restrooms sanitized daily?
+U: Do the rooms of this guest house have a beatiful view?
+U: Do they have incredible waitstaff?
+
+U: Could you tell me whether Alexander Bed and Breakfast is soft-sounding?
+
+U: Is there a good view from the rooms there?
+U: Do they have any really big rooms open?
+U: Can you confirm that the Allenbell has a clean bathroom?
+
+
+
+U: Is it in a nice location?
+
+
+
+U: Are the bathrooms dirty there?
+U: Is this a place with friendly staff members?
+U: Can you make sure my room has a good view of the area?
+
+
+
+U: Is this place really quiet? This is very important to me.
+
+
+U: Do you know anything about Rosa guesthouse? Does it have good views from their rooms?
+U: I need a good view, does this have it?
+U: Do you know if the Nirala offers many kinds of beer on its menu?
+
+U: Before that, can you tell me if the hotel has rooms with a good view?
+U: What is the quality of the spanakopita, if they offer it?
+U: Do they have a good variety of beverage options?
+U: Do either of them have spacious rooms?
+U: Do they have spacious rooms?
+
+
+
+U: Does the Ashley Hotel have big rooms?
+U: Can you tell me if it's noisy? I really need something with a calm and quiet environment
+U: Do they serve good but fairly priced Korma?
+U: Does it have a nice view?
+
+U: How big are the portions?
+
+
+U: Does this restaurant overlook anything interesting?
+U: Is there a large selection of beer options?
+U: Is there a great view from the room?
+
+
+U: I'd really like a scenic view from my room. Woudl the Lensfield offer that?
+
+U: Is it in a convenient and accessible location?
+
+
+U: Are they in a nice location?
+U: Does the allenbell offer free and reliable wifi?
+
+
+
+U: Could you tell me if the internet connection is stable?
+
+U: Can you confirm that the Aylesbray Lodge Guest House has a lot of space in the rooms?
+U: Could you let me know if the Alexander Bed and Breakfast in a quiet area of the city? I prefer a hotel with not a lot of noise.
+U: Does the restaurant offer a nice area for outdoor dining?
+
+
+
+
+
+
+U: Is it a quiet and restful place to stay?
+U: How nice is the view out of my window?
+
+U: Best price for the value in the area?
+
+U: Does the hotel keep the noise level low?
+
+
+U: Does this hotel not have too much noise?
+
+
+
+
+
+
+
+U: Does it have stable internet connection?
+U: Does this restaurant have a nice view of the town?
+U: Do they serve high quality Hot Pot?
+U: Will there be a great view from the room?
+U: Are the servers good at their jobs there?
+U: Does the Midsummer House Restaurant serve alcohol?
+U: Does it have lovely views outside the window?
+U: Do they serve any Pinot Noir?
+U: Do any of their reviews mention friendly service?
+U: Does it have a room with a good view?
+
+
+
+U: IS the staff warm and welcoming?
+
+
+U: Which hotel has the best guarantee that the bathrooms will be cleaned every day?
+U: Is the Ashley loud a lot?
+U: How good is the service at Kohinoor?
+
+
+
+U: Does it have a good view of the surrounding area?
+U: What are some of the largest room in that hotel currently available?
+U: Do they have a room available with a good view?
+U: Does it have various non-alcoholic drink options?
+
+U: Do you know if the staff are pleasant at the acorn guest house?
+
+
+U: Does it have a good view?
+U: Would you know if they have a calm and peaceful environment?
+U: Do they serve large portions here?
+
+
+
+
+U: Do the staff there have good personalities?
+
+
+
+
+U: Is there at least a good view from the room at that place?
+U: Could I enjoy a nice quiet stay there?
+U: Are there some good views from that hotel's rooms?
+
+
+
+
+U: Do they offer good beer for reasonable prices?
+U: Does this guesthouse have good views?
+
+U: Is it a good place if I want a really quiet room?
+
+
+U: Is the view appealing from the Sesame Restaurant and Bar?
+U: Is there a good view from the room?
+
+U: Is it nicely decorated inside?
+
+
+U: Do they offer large food portions?
+U: Do they have a good view from the hotel rooms there?
+
+
+U: Are their rooms clean?
+
+U: Are there clean rooms at Finches?
+U: Are they a quiet location?
+
+U: Which of them is in a better location?
+U: Are their pleasant sights available from the Gonville Hotel?
+U: Does this location have a solid internet connection?  Because that's important.
+U: Do they have a good non alcoholic drink selection?
+U: Great... does this place offer free wifi?
+U: Is the Acorn quiet, particularly at night?
+U: If the hotel fairly quiet overall?
+
+U: Does the Gonville Hotel have a nice view?
+U: Are the waiters there consistently superb?
+U: Which one will let me see something inspiring out of my window?
+U: Is it known to be quiet? I need a quiet hotel.
+U: How nicely is it decorated inside?
+U: can you first tell me which hotel has the best internet connectivity?
+U: What is in a better location?
+U: I want to make sure that they have great service, do you know?
+U: Do they have free wifi?
+
+U: Is this place silent?
+U: Do they have any good portion of foods?
+
+
+U: is the hotel a good value for what i pay?
+
+U: Do the rooms have a great view?
+U: Is it nice and quiet there?
+
+U: Is that location quiet and calm?  Because I don't like noisy places.
+
+
+U: Does the place have a good view?
+U: Can you first tell me if they offer clean rooms?
+
+
+
+U: Is the area it is at a quiet location?
+
+
+
+
+
+
+
+
+
+U: What kind of spread do they have for breakfast?
+
+
+U: Does the Ashley Hotel have rooms that are big?
+
+U: Do you know if it has nice indoor decor?
+U: Do they have attentive service?
+U: Which of these places have the cleanest bathrooms?
+U: Will the servers treat me like a VIP?
+
+U: Is the place with variety of beer option available?
+
+
+U: Yes, can you tell me if the hotel is often noisy?
+U: Is this place worth the money you spend for it?
+U: Are the views appealing from Frankie and Benny's restaurant?
+
+
+U: What type of view does this hotel offer?
+U: Is a room with a terrific view available?
+U: Can you make sure I get a room that isn't cramped?  I need lots of space.
+
+U: How are the views from the rooms of A and B Guest House?
+
+U: Do they have any rooms with tons of space?
+
+
+
+
+
+U: Which one do you think has the cleanest bathrooms?
+
+
+
+
+U: Does the room have a great view?
+U: Does the restaurant serve alcohol?
+
+U: Do either serve high quality Fabada?
+U: Does it have a good view though?
+
+U: Do the rooms have a good view of the surrounding area?
+
+U: Are the rooms quiet?
+U: I'm a germaphobe, are the bathrooms cleaned pretty well?
+
+U: Does it have big rooms for people who like extra space?
+
+
+
+U: Can you make sure the hotel isn't loud?
+U: Could you tell me if their beer is a good value for the money?
+
+U: Which of these places offers large meal portions to satisfy my big appetite?
+U: Does the restaurant have outdoor seating?
+
+
+U: Does the restaurant serve alcohol?
+U: Does it have a good view from the room?
+U: Would this place be able to provide me with a quiet, restful experience?
+
+
+
+U: Can you tell me if their calzone is a good value for the money?
+
+
+
+
+
+
+U: How are the views from the room?
+U: Does it have highly rated Chaat?
+
+
+
+
+
+U: Can I rely on their Internet connection?
+U: Is it in a nice quiet place?
+U: Does this hotel offer wifi?
+
+U: is this guest house equipped with nice views from the rooms?
+U: Do you know if the Lucky Star has nice interior décor?
+
+U: Does it have large portions of food?
+U: Yes, does the India House have many non alcoholic drink choices?
+U: Do they offer a nice quiet atmosphere for indoor dining?
+U: If it's expensive, will I get enough food to justify the price?
+U: Can you confirm that the Alexander Bed and Breakfast offers rooms with great views?
+
+U: Will my room be large?
+
+
+
+U: Does the restaurant also serve cocktails?
+U: Would you please verify that they have a nice view from their rooms?
+U: Can you confirm whether the location of Tandoori Palace is in close proximity to the sights?
+
+
+
+
+U: Does that have friendly staff members? I'd like one like that.
+
+
+U: Do they have good options for non-alcoholic drinks?
+U: Does the hotel provide good value for the money spent?
+
+U: How are the views from the room?
+
+U: Does this restaurant have multiple beer options?
+
+U: How nice are the Gonville Hotel's rooms, and do they come with great views?
+U: Are the views from the room great to look at?
+U: Is it laid back enough to drink beer and enjoy a bargain?
+U: Does the Lensfield offer a really large room?
+U: Can you make sure the hotel is close to attractions and restaurants?
+U: Can I get a reservation with a view?
+U: Are the rooms nice and do they have great views?
+U: Do you know if the Gonville Hotel has big rooms?
+U: Do they have clean rooms?
+U: Are they a quiet place?
+U: Are there many non alcoholic drink options?
+
+
+
+U: Is it close to many different things to do?
+U: Is the view from the room good?
+
+U: Is there a good view from the room?
+U: And do you happen to know if their rooms are nice and offer a great view as well?
+
+U: Do you have any information about their beer selection?
+
+U: Is there a good view from the room?
+
+
+
+
+
+U: Is it pleasant inside Graffiti Restaurant?
+U: Is The Lensfield Hotel a quiet hotel?
+
+
+
+U: Which one is easier to travel to?
+
+
+U: Which has top notch ma po tofu/
+U: Can you tell me if the hotel is located near attractions in town?
+U: Can you first tell me whether the Avalon has excellent Wi-Fi?
+U: Is this place a good value for the money?
+
+
+
+
+U: What's the level of exterior noise at the Alexander Bed and Breakfast?
+
+
+U: What is the largest room the archway has?
+
+
+U: How is their service?
+
+
+U: How good of a value for the money is their souvlaki?
+U: Which hotel is in a good location?
+
+U: Would you please verify that they have nice, clean bathrooms?
+U: Is it a place with quiet rooms?
+U: Please make sure they have a reliable and strong Wifi, since I want to live stream for my followers.
+U: Do the rooms provide a scenic view?
+U: What sort of things can you see from the available rooms?
+U: Does it have nice indoor decor?
+
+
+U: Do they have highly valued drink options for the money?
+U: Does Ashley Hotel offer a place that's relatively quiet to stay in?
+
+
+U: Do they have large rooms?
+
+U: Do you know if it's quiet at the Alexander?
+U: i want loft of beer in restaurant
+U: Yes, but can you check if both are known to be worth the price of staying there?
+
+
+U: I don't do well with a lot of commotion and chaos, is this property calm and quiet?
+
+U: Does the place have strong internet so I can get work done?
+U: Do they have any rooms with great views?
+U: How good is the atmosphere there?
+
+U: Of the 5 restaurants you listed, which offers great service?
+
+U: Does this hotel have a good value for the money?
+U: Which one has a good view from the room ?
+U: Are the beds known for being soft?
+
+
+U: Can I expect good service there?
+
+U: Do the rooms have good views?
+U: Do they have good portion sizes?
+U: I'd like a place that is highly rated for its reasonable prices for drinks. How does the Cambridge Chop House rate?
+U: And does it happen to have a great view from its rooms?
+
+U: Is the service really attentive there?
+
+U: Maybe, do they have beer that is inexpensive?
+U: Does this place have large rooms?
+
+
+
+U: Do you know if the Cambridge Belfry has welcoming staff?
+U: Can you first tell me whether the Hobsons House Hotel has restrooms that are sanitized and pristine?
+U: What type of view do the rooms here offer?
+U: I'd like a room with a good view.
+U: Is the Tandoori Palace located in a good location to see the sights?
+
+
+
+U: Is that a good location?
+U: Does the Cambridge Chop House have attractive interior decorations?
+
+U: Does it have a room with clean bathrooms?
+U: Are the beds comfortable there?
+
+
+U: Does the hotel provide a strong, stable internet connection?
+
+
+
+U: Is the Borscht high quality?
+
+
+
+U: Do they charge a fee for wifi there?
+
+U: Do you know how good the view is?
+U: Will I reliably be able to access the Internet there?
+
+
+
+
+U: Is the hotel a good value?
+
+
+U: Does the restaurant also serve alcoholic drinks?
+U: Great, and can you tell me if the rooms are kept spotless?
+
+U: Is there nice indoor decorations here?
+U: Is yakitori on the menu there?
+
+
+U: is there an outisde seating area
+U: Do the reviews mention the wine being a good quality for the price?
+U: Is the location of the hotel in a quiet area of town?
+
+U: Are they a quiet place?
+U: Yes, I'd like to book a place with a good view from the room, do either of those have a good view?
+
+
+U: Do they have great quality Paella available?
+
+
+U: I need lots of space for my luggage is the room big?
+U: Are the bathrooms always kept spotless?
+U: How much hotel bathromms?
+
+U: Are the rooms spotless?
+U: Is a room with a nice view available?
+U: Does Allenbell have reliable internet? I need to be able to work from the hotel.
+U: Is there any outdoor seating available at the restaurant?
+U: Which one has the more laid back scene?
+U: I'd like to get a room with a good view.
+U: What do reviews say regarding the staff and service there?
+
+U: Is this place a good value for the money?
+U: Are nonalcoholic drinks available at the Gardenia?
+U: Are they located in a quiet area?
+
+U: Is the room nice and clean there?
+
+U: I really want a quiet place, which of those is the quietest?
+U: Do the reviews of Nandos specifically mention the reasonable prices?
+U: I'm hoping I'll get some bang for my buck here?
+
+
+U: Which one is in a better and safer location?
+U: Does it have a good view?
+
+
+
+U: What's the view like from the room there?
+U: Is the location easily accessible and convenient?
+U: Would you know whether the Lensfield Hotel is a quiet place to stay?
+U: Does Rice Boat have a huge selection of beers I can try?
+U: Does the room have a great view?
+
+U: Do they mention clean rooms?
+U: Is their waitstaff capable of providing efficient and high quality service?
+
+
+
+U: I need a really good internet connection do they have that there?
+
+U: Can you check and see if they have rooms with a lot of space at the Avalon?
+
+
+U: Do they offer good breakfast options?
+
+
+
+U: Does the hotel have a good view from the window?
+
+U: Could you let me know if the Lensfield Hotel is in a quiet area of the city? I prefer a hotel with not a lot of noise.
+U: Does it have various non-alcoholic drink options?
+
+U: Is the hotel quiet?
+U: Do you know whether the rooms at Avalon Hotel are large?
+U: Can I request a room with a decent view?
+
+
+
+
+
+
+U: Does the room have a great view?
+
+U: Which hotel has the most comfortable bed?
+U: Does it have a room with a good view?
+U: Do they have top notch atmosphere?
+
+
+
+
+
+U: is the outdoor area nice?
+
+U: How good is their service?
+
+U: Do they have a good outdoor space to eat?
+U: Do they have clean bathrooms in the hotel?
+
+U: And what about their internet connection? I need a stable connection to get some work done.
+
+
+
+U: Before I book it needs to be in a quiet area of town. Is Acorn guest house in quiet area?
+U: Yes, what kind of alcohol do they have?
+U: Is its location nice?
+
+U: Great! This hotel have clean bathrooms too?
+
+U: I want to make sure the bathrooms there are clean.
+
+U: Does the Nirala establish have nice views?
+U: Does this hotel offer rooms with a good view?
+
+
+
+
+U: Is that a quiet location?
+U: Can you let me know whether Da Vinci Pizzeria is close by to many other different things to do?
+U: Is it in a quiet location?
+
+
+U: Is the Lensfield Hotel in a quiet place?
+
+
+U: Do you happen to know if the hotel has a good view from their rooms?
+
+U: Do you know how clean their rooms are?
+
+U: Is the beer a good value?
+
+
+
+
+U: Do they have rooms with pretty views?
+
+U: Can you tell me, is the staff at the Bridge guest house friendly?
+
+
+
+
+U: Do you known if they're well known for their various drink options?
+
+
+U: Does this place have a nice view?
+
+U: Is the breakfast rated highly?
+
+
+
+U: Yeah, can you check on their staff and let me know if they're known to be friendly, quick, and don't make mistakes?
+
+
+
+U: Does it have a good view?
+U: Will you tell me if they have good views?
+U: Is La Mimosa known for having a variety of drink options?
+
+
+
+U: Can you tell me whether the Cambridge Belfry has thoroughly cleaned rooms?
+
+U: Does the Nandos City Centre have a high quality Alheria?
+U: is it quiet there?
+
+U: Do their rooms come with nice views?
+
+
+U: Is Tandoori Palace in a good location?
+
+U: We want to order alcoholic beverages. Do they sell them?
+
+U: Do you know if this guesthouse is in a fairly quiet location?
+U: Do you know how great the view is?
+U: I prefer big rooms, does this one have them?
+
+
+
+U: Is the view lovely?
+
+
+
+
+U: Do they serve alcohol?
+
+U: Do you know if the hotel is a great value for the price?
+U: Wait, I need more information. Does the hotel have clean rooms?
+U: Does it mention having a good view from the room?
+U: is the nice indoor decor worth it?
+U: Do they have a good view from the room?
+U: Does the room have a good view of the surrounding city?
+U: Does one have a better bathroom cleanliness rating than the other?
+U: is this a low noise place?
+
+U: Wifi is very important to me. Are you sure the connection is stable?
+U: Does it have good size food portions?
+
+U: Does the City Stop restaurant serve alcohol?
+
+
+U: Is the acorn a quiet place?
+U: Can one find a quality breakfast served while staying at the Kirkwood House?
+
+U: Which of those have the best view?
+
+U: Out of Chiquito restaurant bar, frankie and bennys, peking restaurant, taj tandoori, and the good luck chinese food takeaway, which has the friendliest, most-efficient, flawless staff?
+U: Would you please verify that the guest house is in a good location?
+U: Is the restaurant in a good area of the town and what else is around there?
+
+U: I would prefer a nice view from the room if that's available.
+U: Silence is important for my stay; does this location provide that?
+
+
+U: Is the room kept thoroughly cleaned?
+U: Though it is cheap would you say it is a good value?
+
+U: Do they have great views from the rooms there?
+
+U: Could you let me know the size of the rooms at 53-57 Lensfield Road? I need a big room.
+
+U: Do they have clean and spotless rooms?
+
+
+
+
+
+U: What are the portion sizes here? I would like them to be large.
+
+
+
+
+
+
+U: Does this place have a good view from my room?
+U: Can I book a room with a great view?
+
+U: Is that in a shady part of town or good part?
+U: Will there be something interesting to look at through the window there?
+U: Do any of these hotels have good sights from the room?
+
+
+U: Do you know if Hobsons House has spotless bathrooms?
+U: Could you tell me if they have a nice, spacious view from the room?
+
+
+U: Can you tell me whether A and B Guest House provides rooms with great views to enjoy?
+U: I really like a place with reasonably priced drinks. Does the Bedouin have that?
+
+
+U: Is there a spacious room to stay in?
+U: Does it have highly valued drink options available?
+U: Does this restaurant have outdoor seating?
+
+U: Which one has a better view?
+U: Does the hotel offer a good view from its rooms?
+U: Which has stronger wifi? I need to work while on vacation.
+U: Would you consider them to be a calm and quiet place to stay?
+
+U: Which place is the quietest?
+
+
+U: Do other customers think they're worth the money?
+U: I'd like a quiet hotel. Is it?
+
+
+
+U: Wait, can you double check if the room has a great scenery as well?
+U: Do they have good views from their rooms?
+U: Does the Curry King offer many non-alcoholic beverages?
+U: Does Cityroomz offer good views from their rooms?
+U: I really want something quiet so do you think I will have that there?
+U: make sure its clean
+U: Does it have well priced beer?
+
+
+
+U: Is the room clean?
+U: Will my room have a pleasant view?
+U: I really need to get some rest for this trip, can you make sure that the hotel is generally quiet during the night?
+
+U: Does that location have a peaceful location without a lot of noise?
+U: How meticulous is their cleaning staff?
+U: Are all the rooms there of a decent size?
+U: Do they have good food portion sizes?
+U: Can you tell me if the bathrooms are dirty or not there?
+
+U: Great but how big is the room and what is the set up?
+U: Are their decorations beautiful?
+U: Which one has a nicer view?
+
+
+U: Can you tell me if they are well known for their value for the money?
+
+U: Is there a good view from the room?
+
+U: Do you know if it's very quiet?
+U: Are patrons able to enjoy nice surroundings while dining at De Luca Cucina and Bar?
+U: Are there nice rooms with a great view at the gonville?
+U: How comfortable are their beds?
+U: Before you do, does the room happen to have a good view?
+
+U: Do you know the size of the rooms there?  I want to stay in a big space.
+U: Do they do a good job at cleaning the rooms?
+
+U: Does thag have the best accommodations for the price?
+
+
+
+U: Does this place have clean bathrooms?
+U: Do they mention anything about a beautiful view?
+
+
+
+
+
+U: Can you order a decent beer at a reasonable price?
+
+
+
+
+
+
+U: Can you please make sure my room has a good view also
+U: Is there a good variety of breakfast foods available in the morning?
+
+
+U: It sounds good but what type rating regarding cleanliness does Kirkwood house have, I want somewhere spotless.
+
+U: As there a nice room with a great view?
+U: Does Pizza Express Fen Ditton serve wine that's a good value for the price?
+
+
+
+U: Are there rooms with good views at acorn house?
+U: It might be, but I would like to know if the Ashley Hotel has big rooms?
+
+U: Can you make sure the hotel is in a decent part of town?
+
+
+
+U: Does this place have great service?
+
+U: Are the rooms known for having good views?
+
+U: What kind of views are available from the rooms?
+
+
+
+U: is this place good value for my dollars?
+U: Does it have a good decor?
+
+U: Is it a good value?
+U: Can you tell me if they have good portions of food in their dishes?
+U: Is the place quiet?
+U: Which one of the two has the cleanest facilities?
+
+
+
+U: is the place with good beer for the price?
+
+U: Which one has a better hi-speed Wi-Fi connectivity ?
+
+U: I need a place with great service.
+
+
+U: Does the place have a comftorable bed?
+
+
+
+U: Do the rooms there have good views?
+
+U: Does it have good decoration in it?
+U: Is the location nice?
+
+
+U: Is this a quiet and peaceful location?  That's what I like.
+U: Is the internet connection reliable?
+
+U: Does this place have clean bathrooms in it?
+
+U: Which one is known more for having the best of excellent service?
+U: Are they known for having great service?
+
+U: Is it a quiet hotel?
+U: Does the restaurant have outdoor seating?
+
+U: As long as the rooms are clean and the housekeeping staff does a meticulous job. Can you check that?
+U: How clean are the rooms kept?
+
+U: Do they have a good selection of beer?
+U: Do they offer non-alcoholic drink options?
+U: Do they have good outdoor seating?
+
+U: Does the room have a great view?
+
+U: How close is it to the city's most exciting sights?
+
+U: Your internet is the very past?
+U: Is this hotel in a quiet part of town?
+
+
+
+
+U: What is the cost of WiFi at this hotel?
+U: Is this location known for having thoroughly cleaned rooms?  That's what I prefer.
+
+
+
+U: Before that, can you run some cost analysis and see if the Limehouse is the best value for its price against nearby competitors?
+
+U: Is that a quiet hotel?
+U: Not yet, can you first confirm whether Restaurant Alimentum serves heaping food portions?
+
+U: Does the Acorn Guest House have reliable and stable internet that doesn't go down?
+U: Does it have a nice view?
+U: Does A and B Guest House have rooms with a beautiful view?
+
+U: Can I see all around this restaurant?
+U: Are they known for having quiet rooms?
+U: Does the restaurant serve alcohol?
+
+
+U: Can you confirm whether the Alexander Bed and Breakfast has pleasant sights from its rooms?
+
+U: Which one has a nice location?
+
+U: Is there a good view from the room?
+
+U: Can you tell me if it's in a convenient location?
+
+
+
+
+U: Do they give you a lot for what you pay there?
+
+U: Are the bathrooms clean enough to eat in?
+U: Is the hotel in a quiet area? I have a lot of work to do during my stay and I don't want to be disturbed.
+U: Which one of them would have the nicest view?
+U: Is this place known for having great value?  That's what I prefer.
+
+
+
+U: Does it have a lot of noise?
+U: Do they have friendly and responsive staff members?
+U: Are the portions big?
+
+
+U: Does it have a lot of space?
+U: Is the view a nice one?
+
+U: Do you get a decent value for your money there?
+
+
+
+U: Is it in a quiet area?
+U: Does this hotel have a calm and quiet environment?
+
+
+U: Does that restaurant have a nice niew?
+U: Can you assure me that the restaurant has good service?
+U: Which of them has better breakfast options?
+U: What Covid protocols do they follow for the restrooms?
+U: Do you know if it has a nice outdoor place for dining?
+U: Is there a good view from the rooms there?
+U: Does it have outdoor seating for guests to enjoy their meal outdoors?
+
+
+
+U: Does their decor offer interesting sights?
+U: Is this in a quiet area of town?
+U: Fantastic, can you also confirm for me that the room happens to have a good view?
+
+
+U: Are there any pleasant sights to enjoy near the hotel?
+
+U: I need it to be very quiet.
+
+
+U: I forgot to ask this. Is the view from my room gonna be good?
+
+
+U: Does the room have a great view?
+U: Can you tell me if Hakka's service is very good or not?
+U: Is there a good view from the room?
+U: Does it have a room with a beautiful view?
+
+U: How spacious are their rooms?
+U: Will I be able to see the area's beautiful scenery?
+U: Is the view nice?
+
+
+U: How clean are the rooms?
+
+
+U: I need an nice view room, hope is that like one
+U: Is beef and lamb burgers a well-known dish on their menu?
+U: Do they have a nice view?
+U: Does this have a good view from the room?
+
+
+U: How is the view from the rooms?
+U: What are the breakfast options at the Avalon?
+U: Does this hotel have rooms with a good view?
+
+
+
+
+
+
+
+
+
+U: I really want a room with a view. Does the location offer good scenery?
+
+U: Is there a nice view?
+
+
+U: Does the hotel have a solid internet connection, it is important.
+
+U: Which of these are known for having good views?
+U: this is the best value I can get right?
+U: Does the Arbury lodge guesthouse have any rooms with a good view?
+
+U: Does it have many beer options?
+U: I also need the place to have positive reviews for array of beer options please.
+U: Does it provide great service?
+U: Is it in a nice location?
+
+
+U: Does the restaurant serve large portions?
+U: Does it have nice indoor decor?
+U: Is that location quiet and calm?  Because I don't like noisy places.
+U: Does this location offer good views from the rooms?
+
+
+
+
+U: Do they offer any rooms that have really pretty views?
+U: I want to enjoy the view from my room, will this work?
+U: Is there a good view from the room there?
+U: Are the rooms cleaned daily?
+
+
+U: What kind of views are available?
+U: Do they offer rooms with a good view?
+U: Can I get a room with a beautiful view?
+
+
+
+
+
+U: Are the rooms clean?
+U: Do they have reasonably-priced beer?
+
+U: Is the Meze Bar Restaurant well known for it's various drink options?
+U: I get pleasant sights from the room correct?
+
+U: Do the rooms of this place have a good view?
+U: Do the rooms there have a good view?
+
+
+U: Are the rooms at the Ashley Hotel large enough to accomodate 8 people?
+
+
+
+
+U: How many wine options do they have?
+U: Is it a quiet place?
+
+U: I'm looking for a place that known for its highly-valued drink options for the money. How does La Margherita rate?
+U: Is the wine a good value for the price there?
+U: Is the area around the Acorn Guest House quiet?
+
+U: Will you tell me if they offer good room views?
+U: Is the location appealing?
+U: Can I get a room with a pretty view?
+
+U: Is this place a good value?
+
+
+U: Do they offer outdoor seeting?
+U: Is this place a good value for the money?
+
+U: Does this restaurant serve alcohol?
+
+
+U: Is that in a good location?
+
+
+U: Yes, and I would also like to know if the room will be clean and dust free?
+
+
+
+
+
+U: Is this restaurant known for it's service?
+U: Are the rooms actually big there?
+U: Can I request a room with an attractive view?
+
+
+
+U: Do they have a stable internet connection?
+U: I want a place that serves generous food portions, too.
+U: does the hotel have large rooms?
+U: How's the view from the restaurant?
+
+U: Do you know if the Allenbell is known for the the cleanliness of their bathrooms?
+
+
+U: Has this area been preferred by others?
+U: Does it have good views?
+
+U: Do they have any drink options besides alcohol and water?
+U: Do they have nice views from the room there?
+U: Can you book me a room that has a good view?
+U: Can I get fresh Alheira there?
+U: I want to enjoy the view from my room, will this work?
+
+
+U: Is it located in a good location in town?
+U: Does the restaurant serve alcohol?
+U: Can you book me a room that has a good view of the surrounding area?
+U: Can you first check to see if you can find out about the cleanliness of their rooms?
+U: Wait, can you check if Gonville Hotel has a big room available?
+U: Does this guest house provides a room with a great view to look at?
+
+U: Is this hotel in a quiet part of town?
+U: Do they mention having a good view?
+
+
+U: I want to make sure the room is really clean.
+
+U: Is the hotel located in a quiet area?
+U: Are the amenities worth the price at the Cambridge Belfry?
+
+
+U: Do they both offer non alcoholic drinks?
+
+U: Do you know if it has nice indoor decor?
+
+
+
+
+U: Do they have good service?
+
+U: Do either of these places have a nice view to enjoy?
+
+U: Does it have a really big room available?
+U: Can they guarantee silence at night?
+
+U: I'd like a place with nice variety of beer options. Does Nirala have that?
+U: Can you tell me if they are known for having quiet rooms?
+U: Are the beds and mattress comfortable?
+U: Is there a good view from the rooms there?
+
+
+
+U: Which one is in a nice location?
+U: I really want a big room, do they provide that?
+
+
+
+U: Is the restaurant attractive?
+
+U: Do you know if the Acorn Guest House has good views from its rooms?
+U: Does this hotel come with a good view of the town?
+
+U: Are there pleasant sights from the accommodations?
+U: Can you tell me whether Bedouin offers beer that's a good value for the price?
+U: Before you book, is the hotel itself quiet?
+
+U: Does this place offer a good view from my room?
+U: Which one of them is in a better location?
+U: I want the room to be spotless
+
+
+U: Which one has cleaner bathrooms?
+U: Yes, does the hotel have a good view from its rooms?
+
+
+U: How are the views from that restaurant?
+
+U: What kind of view does the room have?
+
+U: Isn't this place in city centre too loud?
+
+U: Can you tell me what the views from the room will be like? I want amazing views!
+
+
+
+
+
+U: How sanitary are the restrooms at the Allenbell?
+U: Does Shanghai Family Restaurant have great service?
+
+U: Do they have a nice view?
+U: Are the rooms clean?
+
+
+U: Is the beer reasonable priced here?
+
+U: Does the Lensfield Hotel have any big rooms available?
+
+
+
+U: Any good views here?
+U: Is there too much noise near the hotel?
+
+
+
+U: Do they serve large portions here?
+
+
+U: I want the staff to be very cordial.
+U: Is the hotel quiet?
+
+
+
+
+
+U: Does the Lensfield Hotel offer good views from its rooms?
+U: Is it a good value for the cost?
+U: How's the view from Efes Restaurant?
+U: Do they have a nice view for dining?
+U: Is the Alexander B&B in a quiet location?
+
+U: Is there a good view from their rooms?
+U: Is this place one of those that give you a lot of food?
+
+
+U: Does it offer a room with an enjoyable view?
+
+
+
+
+
+
+U: Wait, does the room offer a great view?
+U: Do they have spacious rooms?
+
+U: DO they have good wifi?
+U: Does the room have a good view?
+U: Will I get some bang for my buck here?
+
+
+U: I need to know what their breakfast options are?
+
+
+U: Does it have a good view?
+U: Is there a good view?
+
+
+U: Is this a good location for travelers?
+
+U: Is the staff is well trained to be friendly, fast and flawless?
+U: Do any of the rooms have nice views?
+
+U: Would you say they are a calm and peaceful place to stay?
+
+
+U: Is it centrally located?
+
+U: Which one is a good value for the money?
+U: Do the reviews mention anything about large portion sizes?
+U: Is the guesthouse staff nice and friendly?
+
+
+U: Can you please find one with clean bathrooms between two?
+
+U: Before you book it, can you tell me if it’s a noisy or a quiet neighborhood?
+U: Would you describe that as a good location?
+U: Does the restaurant serve alcohol?
+U: I need it to be peaceful surrounding at the hotel.
+
+U: Are their drink prices reasonable?
+U: Do they have a wide variety of merlot?
+U: Is it located in the quiet part of town?
+
+
+
+
+U: Is the Bolognese served at this restaurant made on premise with price that is competitive?
+
+U: Is the view nice?
+U: I need to make sure that this location is very peaceful and quiet.
+
+
+U: How noisy is it at the hotel?
+U: Would you consider the Avalon to be in a convenient location?
+
+
+U: Does the room have a good view?
+
+
+
+U: Which one is known for having a better atmosphere?
+
+
+
+U: Is it a quiet place?
+
+
+
+U: Do they have excellent service?
+U: Does this place offer stable wifi?
+U: Is the room really clean?
+U: Does it mention having clean rooms?
+U: Does the Ashley Hotel have big rooms to stay in?
+
+U: Could you tell me how quiet the hotel is first?
+U: Is this considered a good value for my money?
+U: Does the room have a nice view?
+U: Are the reviews for the beer good?
+
+
+U: Is this the best value for what you get?
+
+
+
+U: Do you know if they have spotless bathrooms?
+U: Is that in a quiet area?
+U: Can you tell me if it's a quiet place?
+
+U: Which one has a nice view?
+
+
+
+U: Do you know if the Cambridge Belfry has a reputation for spotless rooms, and whether the housekeeping staff is very detail-oriented?
+
+
+U: Do they have a bigger room available?
+
+U: Can you tell me if there is a good view from the room there?
+
+U: Does is have stable internet?
+U: Is it decorated nicely?
+
+
+
+U: Does hobsons house have highly rated bathrooms?
+
+
+U: Does this place have a big room?
+U: Will I have reliable access to the Internet there?
+
+
+
+
+
+
+
+U: Do they have a large beer selection?
+U: Is it quiet?
+U: Is that location a good value for the money I will spend on it?
+
+
+U: I'll be working from there.  Is there a stable internet connection in the room?
+U: How clean are the bathrooms?
+
+U: Which one has the best views?
+
+U: I cannot bear a tacky restaurant, do Da Vinci Pizzaria have nice indoor decorations?
+
+
+
+U: Are there pleasant sights from the accomodations?
+U: I prefer a large room; can you make that happen?
+
+U: Do you know if the Ashley Hotel has big rooms?
+U: Do any of them offer free wifi services?
+
+U: matters does it have a good view?
+U: Does this location provide a clean bathroom?
+
+U: Is the indoor decor nice?
+U: Do they have large rooms available?
+
+
+U: Are the rooms clean?
+
+
+
+
+
+U: It must have a nice room with a great view--does it have that?
+U: How is the cleanliness? Especially restrooms?
+U: Do you know how stable their internet connection is?
+
+
+U: Do they offer a high quality and reasonably priced Risotto?
+
+U: Do they have rock solid internet?
+U: Does the room have good views?
+
+
+
+U: Do you know if this hotel has large suites?
+
+
+
+U: Are the rooms clean and spotless here?
+
+
+U: Is the Avalon in a good location?
+
+U: Do they offer large portion sizes?
+U: Does hobsons house have clean rooms?
+U: Does the room have a good view of the surrounding area?
+U: Is it in a quiet area?
+U: Will there be a nice view of the city from this restaurant?
+
+
+
+U: Is the internet connection there stable?
+
+
+U: is the Avalon conveniently located?
+
+U: How are the views considered at the Cityroomz location?
+
+U: Does this hotel offer rooms with a good view?
+U: Is it located in a quiet area?
+
+U: Do they mention having a good view from the room?
+
+U: Internet is really important for me, so can you tell me whether this guesthouse has reliable internet connections?
+U: Which one is known for their high ratings for its Falafel?
+U: Does The Oak Bistro offer an outdoor dining area?
+
+U: Can you tell me if the Meghna serves a variety of beer options?
+U: Can you first confirm that the rooms at Finches Bed and Breakfast are very clean?
+U: Is it a place with a good view from the room?
+
+U: Can I get a room with a good view?
+U: Do they have big rooms?
+
+
+
+
+U: Do you know if the internet is stable?
+
+U: Do they offer high quality wi-fi?
+U: Does it have rooms with a good view?
+
+
+
+
+U: Do they have a nice area for outdoor dining?
+
+
+
+
+
+U: Does it have a nice area for outdoor dining?
+
+
+U: Is it quiet?
+U: Does it mention anything about a stable and reliable Internet connection?
+
+
+
+U: Is it a quiet place?
+U: Do they serve Italian menu for breakfast?
+U: What will I be able to see out my hotel window?
+
+U: Do they have good beer for the money?
+
+U: Is it a nice room with a great view there?
+U: Do the rooms have a lot of space?
+U: Can you confirm for me how big the rooms are at Finches Bed and Breakfast?
+U: Can you confirm that the Warkworth House offers reliable and consistent Internet?
+U: Do they offer big rooms?
+U: Before you book it, can you see if the beds there are comfy? I want a good night's rest.
+
+U: Is there outdoor seating at that place?
+
+U: Does housekeeping do deep cleans on the rooms?
+U: Does it have a nice outdoor dining space?
+U: Is this hotel in a good location?
+U: Are the room views pretty?
+U: Is the Lensfield Hotel in a quiet area of town? I really need to find a quiet hotel to stay in.
+
+
+U: Do I get a view from my room at this hotel?
+U: Can you tell me anything about their beer selections as I want a good value?
+
+
+
+U: Does Cityroomz offer rooms with great views for guests to enjoy?
+
+U: Is the Tandoori Palace in a nice location?
+
+
+
+U: Is this location in an area free of noise?
+
+
+U: Does Hobsons House offer rooms that are thoroughly cleaned?
+U: Is it in a quiet place?
+
+U: Is it nice and quiet at the ashley hotel?
+
+
+
+U: Is the hotel quiet?
+U: Does it have a room with a lot of space?
+U: Do they mention having clean rooms?
+U: Does it offer a nice viewing from the room?
+
+U: Does it have stable internet?
+
+
+
+
+
+U: Can you tell if they offer strong, reliable internet service as that is crucial for my work?
+
+
+U: Is the beer there well priced?
+
+U: I don't like restaurants with gaudy indoor decor. Does Panahar have modern or fun concepts for their indoor decor?
+
+U: Do they have non-alcoholic drink options?
+
+
+
+U: Which has a nice outdoor area for dining?
+
+U: I really want a good location.
+U: Do you know whether the Gonville Hotel offers great views from its rooms?
+U: Is there a warm and welcoming staff here?
+
+
+U: How is the service there?
+U: Which hotel has better value for the money.
+
+
+U: Can you tell me how clean the rooms are at the Cambridge Belfry?
+
+
+U: I need a large room, does this have one?
+U: Is this hotel in a quiet and soft part of town?
+
+
+
+U: Do they serve large portion sizes at De Luca Cucina?
+
+
+U: Do the rooms have a beautiful view?
+U: Do they have a really stable internet there?
+
+
+U: Which offers good portions of food?
+
+
+
+U: What's going to be the best deal for my money?
+U: Does Restaurant alimentum serve alcohol?
+U: I want the one with the best location, something in a really nice area.
+U: Is this a place with a good location?
+U: Could you tell me if either of these restaurants serve alcohol?
+
+
+
+U: Does the Lensfield have a calm and quiet atmosphere without a lot of noise?
+
+U: Is there a reliable internet connection?
+
+U: How big are their portion sizes?
+
+
+
+
+
+U: Is the beer a good price?
+U: Yes and how is the view from the room?
+U: Does this place offer a good view from my room?
+U: Do they offer a variety of reasonably priced beer?
+
+U: Is the service known to be good?
+U: Do they have a reliable and consistent internet?
+U: Do they serve alcoholic drinks there?
+U: Do they have a good selection of non-alcoholic drinks to choose from?
+U: It it quiet enough for me to wind down?
+U: Is there a good view of the surrounding area?
+
+U: Does it have decent seating area for outdoor dining?
+
+
+
+
+
+
+U: Do the rooms have nice views?
+
+
+U: Do they serve alcohol?
+U: Do they serve reasonably priced beer?
+
+
+U: Are the food portions generous at The Missing Sock?
+
+
+
+U: I'm a bit of a clean freak, do you know if the rooms are immaculately kept, and the housekeeping staff is very precise?
+U: Which area has the calmest inside area?
+U: Do they have nice outdoor dining areas?
+U: Is the service great?
+
+
+
+U: Is there a great view from the room?
+U: Also hoping this place will be nice and quiet?
+
+U: Do you know if the rooms at the Gonville Hotel offer good views?
+U: Does it have a good view?
+U: Do they have a nice outdoor dining area?
+
+U: Do the rooms have a great view?
+U: Can you tell me what the view is like? Does it have a spectacular view?
+
+U: Yes, tell me how spacious are the rooms?
+
+U: Do the rooms at the Arbury lodge guesthouse have a great view?
+
+U: Neat and is the location in a central location and accessible?
+
+
+U: I would like the place to have a good selection of beer. Does La Mimos have it?
+
+
+
+
+U: Does Rice Boat restaurant have various beer options?
+U: Are the bathrooms cleaned daily?
+
+U: Which place offers a good value for the money?
+U: Is it known for various drink options?
+U: Do they have good schnitzel on their menu?
+
+U: Is the room large and spacious?
+
+U: Also, I have this thing about cleanliness and want to make sure that the room and bathroom are clean and pristine.
+
+
+U: Are the bathrooms there very clean?
+U: Are there nice views from the rooms there?
+U: Does the Cambridge Belfry have rooms with great views?
+U: Does the Arbury Lodge Guesthouse provide good views to its guests?
+
+U: Does that hotel have stable internet connection?
+
+
+U: Are there a lot of non-alcoholic drinks to choose from?
+
+
+
+
+U: I want no noise where I am.
+
+
+
+
+
+
+U: did the room had a good view?
+U: Is it in a peaceful and quiet location?
+
+U: Do they have rooms with a view?
+
+
+
+U: Is this a place with good value for the cost?
+U: Does the place have reasonably priced beer options?
+
+
+U: Could you let me know whether the Allenbell has a good Internet connection?
+
+
+
+U: Does it have a nice view?
+
+U: Is Avalon located in an appealing neighborhood?
+U: Can you tell me is the location in a safe part of town, that is important to me.
+U: Is the internet known to be reliable enough to work on during the day?
+U: Can I get a room with a window facing the city?
+
+
+
+U: What is on the breakfast menu?
+
+U: Do they have any rooms with good views?
+U: Is it quiet? Quiet places are more appealing to me.
+U: Can you tell me whether the Alexander Bed and Breakfast offers good views from its rooms?
+
+
+
+U: Do they have clean bathrooms?
+U: Is the food portions good?
+
+
+
+
+U: Is the view from the window entertaining or soothing?
+U: Does the Alexander Bed and Breakfast feature wonderful views?
+
+U: Will I get some bang for my buck here?
+
+
+U: Before that can you tell me if the staff is friendly and offers excellent service?
+U: Does it have a good view?
+
+U: Do they have spotless room with housekeepers that pay close attention to things?
+U: Does this restaurant have many Pinot Noir options to choose from?
+
+
+
+U: Do they have big rooms?
+
+U: What is the quality of their arancini?
+
+U: Is it in a quiet part of town?
+
+U: Does the room have good views?
+U: Does it have a nice view?
+
+U: Is the restaurant have outdoor seating?
+
+U: What can you tell me about the views from the rooms?
+U: Does the restaurant have friendly and responsive staff?
+U: What is the view like? I really want a lovely view.
+
+U: Is that location convenient to a variety of things to do and see?
+
+
+
+
+U: Do you know if the Allenbell Guesthouse has spacious rooms?
+U: Do they have numerous beer options?
+U: Which place has great views from the room?
+
+U: What kind of views are available from the rooms?
+
+
+U: Is this guest house in quiet area?
+
+
+
+
+U: Is there any room with great outside view?
+
+
+U: Do you know what the view from the rooms are like? I prefer a room with a view.
+
+
+
+U: I'm really picking about cleaning - can they keep my room spotless?
+
+U: Does this hotel have a room with a good view?
+U: Is there a good view from the room?
+
+
+
+
+U: How are the choices of non-alcoholic drinks at India House?
+U: Which place does have the cleanest bathroom?
+
+U: Before you do that, could you tell me whether the bathrooms at the Huntingdon Marriott Hotel are sanitized and pristine?
+
+
+
+U: Is the view nice?
+
+U: Do they offer great customer service?
+
+
+U: Is there a large room offered here?
+U: Do you know if it has a good portion of foods?
+U: Is the internet connection there stable?
+
+
+
+U: Does this guest house have a big room?
+U: Do they charge a fee for WiFi?
+
+U: How are the bathrooms there?
+U: Does Pizza Hut serve alcohol?
+
+
+
+
+
+
+
+U: Will it be noisy there?
+
+U: Would you please verify that it's a quiet place?
+
+
+U: Is the hotel fairly quiet?
+
+
+U: Can I get a room with a good view?
+U: I need a place that's quiet. What is the hotel's noise level?
+U: Is the interior of Da Vinci Pizzeria nicely decorated?
+
+
+U: Is this a quiet hotel?
+U: I want some good roasted dinners for a good price.
+
+U: Is this a quiet place?  That's what is best for me.
+U: Does the acorn have a calm and quiet environment without much noise?
+
+
+U: Which one has the least amount of noise?
+U: Does this restaurant offer outdoor seating?
+
+U: Is Alexander bed and breakfast a quiet place to stay at?
+U: Can you confirm if the hotel has a good view from my room or not?
+U: Do they have outdoor seating?
+U: I would like to know if they have quality kung pao chicken?
+U: Does it have striking interior design?
+
+
+
+U: Does it have a good view?
+
+U: Do you know if the Arbury Lodge Guesthouse offers pleasant sights from its rooms?
+
+
+U: Do you get a big room there?
+U: Yes, but does it have a good view from the room?
+U: Can you tell me if anyone mentions them having large rooms?
+
+U: Do they offer a good selection of beer?
+
+U: Do the rooms in this hotel have good views?
+
+
+
+U: Do they have clean bathrooms?
+
+U: Can you tell me whether the Anatolia offers nice views?
+U: Would you please verify that they have big rooms?
+
+
+
+
+
+U: Is the merlot worth it?
+U: Does the room have a great view?
+U: Do they offer a large selection of beer?
+
+
+
+
+
+U: Is Acorn House a quiet, peaceful place?
+U: Is the room kept thoroughly cleaned?
+U: Is the restaurant nicely decorated?
+U: Does the hotel have clean rooms?
+U: Is that location considered a good one?
+U: Are there a lot of amenities offered?
+U: Is the hotel very clean?
+
+
+U: Are the rooms really big?
+U: Does this hotel have a pleasant view?
+
+U: Is this hotel worth the price?
+U: How is the view from my room?
+U: Can you tell me if that restaurant has a nice view?
+U: It's a work trip, can you confirm if they have a reliable internet connection?
+U: Can you make certain to book me a nice room with a great view?
+
+U: Do you know how comfortable the hotel's bed is?
+U: Does the dining place have a view that is appealing?
+
+
+U: Is there too much noise near the hotel?
+
+
+U: Does this place have decent seating area for outdoor dining?
+U: Does this restaurant have a modern not dated decor?
+
+
+
+U: Does this place have a good view of the surrounding area?
+U: I want to see a good view of the city from my hotel room, is that possible?
+U: Does the Nirala offer many drink options for those who enjoy beer?
+U: They don't happen to provide an Irish breakfast at the Bridge Guest House, do they?
+
+U: does this guest house have quiet rooms
+U: Is it nicely decorated, otherwise can you find another location?
+
+
+U: Does the kirkwood house have clean rooms?
+U: Sounds good. Could I get the best bang for my buck from there?
+
+
+U: I need to get away and think is it quiet there?
+U: Can you confirm that the rooms at Finches Bed and Breakfast offer great views?
+
+U: Could you first confirm whether the Avalon is in a good location?
+
+
+U: Does the Archway House have high ratings for their clean bathrooms?
+U: Does the room have a good view?
+
+U: Do they have a nice view?
+U: Does the Hobsons House have friendly staff?
+
+U: Is this hotel in a quiet part of town?
+
+U: Are there many non alcoholic drink options?
+U: Can I get a room with a good view?
+U: Do they have decently priced beer?
+
+U: Does it offer non-alcoholic drink options?
+
+
+
+
+
+U: Do they have places to eat outside?
+U: Do the rooms have a lot of space?
+U: What about cleanliness? I want to stay somewhere that's clean.
+U: Can you confirm that the Ashley Hotel is a quiet place to stay?
+
+
+U: Is there a good view from the room?
+U: Sorry for the change but can you check if the location you booked has quiet rooms or is generally pretty quiet?
+U: Is it quiet?
+U: Would you say the hotel is calming and relaxing?
+
+
+
+
+U: Is the food large servings?
+U: Can you tell me if it has a really nice view?
+U: Do they have a nice view there?
+U: I'm mostly interested in how clean the rooms are. What's their reputation for cleanliness?
+
+U: Does this hotel have a reputation for impeccably clean rooms?
+
+U: How are the portion sizes at Restaurant Alimentum?
+
+
+
+U: Does it have clean rooms?
+
+U: Do the rooms have beautiful views?
+
+
+U: Is the inside nicely decorated?
+
+U: Will you make sure I get a room with a nice view
+U: Are they located in a nice location?
+
+
+U: Does the Aylesbray Lodge have large rooms?
+U: Could you let me know if the Lensfield Hotel is in a quiet area of the city? I prefer a hotel with not a lot of noise.
+U: Is this place quiet?
+U: Does the internet have good uptime?
+U: Does the hotel provide good value for the money spent?
+U: before we book can you tell me if the area is quiet? I don't want a lot of noise!
+U: Is the service great?
+U: Do you know if they outdoor seating areas?
+U: Is there a friendly and responsive staff there?
+U: The most important thing to me is to stay at a hotel where the noise level is not going to be a problem. Is it quiet at Acorn Guest House?
+U: I would prefer if they had a nice view. Do they?
+U: Is it in a quiet area?
+
+U: Is the view from the room nice?
+U: Are either of them known for having comfortable beds?
+U: Does this hotel give you a lot for what you pay?
+U: Does the room have a view?
+U: Do they have a stable internet connection?
+
+
+U: Does that location provide decent value for my money?
+U: is the staff friendly there?
+
+
+
+
+U: If they have nice indoor decor, do they have that?
+
+U: How is the view of the surrounding area?
+U: Which one has the best selection of various non-alcoholic drinks?
+
+
+U: Does this place have a good view from my room?
+
+
+
+U: Do their rooms have good views?
+
+
+U: What can one see out the window of the rooms?
+
+U: Does that location offer a room with a good view?
+
+U: Do they have a noise level policy?
+U: Would you say they have a nicely decorated interior?
+U: Are they known for having a quiet environment?
+
+U: Can you please verify that it will have a nice view from the room?
+U: Does this hotel have a good value for the price?
+
+
+
+U: First I would like to know, does Hobson's House have a nice view from the room?
+
+U: Does it have a good view from the room?
+U: Does this hotel have rooms with a good view?
+U: How is the view quality from the Express by Holiday Inn Cambridge?
+U: Wait, does any hotel have a good location?
+
+U: Do you know if it serves non alcoholic drinks?
+U: Do they have an appealing  view?
+
+U: Does the hotel have lots of space
+
+
+U: What are some the amenities of the Cambridge Belfry?
+
+
+
+
+U: Does the internet have good uptime?
+U: What is the view from the room like because I want something nice to look at?
+U: Do they have a nice location?
+
+U: Does the Express by Holiday Inn Cambridge offer a nice view?
+U: How generous are their portions?
+U: Can you recommend the location that has the best portion sizes?  That's important to me.
+
+
+
+
+
+U: Can I work in silence there?
+U: Do you know if the bathrooms there are clean?  I'm a bit picky.
+U: is it possible you confirm that I can get a room that has a great view?
+
+U: Do they have rooms with views?
+
+U: What kind of beer options does the Nirala have?
+U: Can you please verify that it will have good breakfast options?
+U: Does this location have a large room available?
+U: It is considered a good value, right?
+U: Is there a good breakfast selection at Autumn House?
+U: Do they have decent food portions?
+U: What are the portion sizes like at these restaurants?
+
+
+U: Does cityroomz have rooms with a good view of the ocean?
+
+U: Are there any rooms with a good view from the room?
+U: Are the rooms clean? Dirty rooms are unacceptable.
+
+
+U: Do they mention a stable and reliable internet connection?
+U: I'll be working from my room.  Is there excellent wifi there?
+U: Does this place have clean rooms?
+U: Before I do, does either hotel offer friendly staff?
+
+
+
+U: is the non booze drinks have a large menu?
+U: Do you know if the Pizza Hut Cherry Hinton offers a top quality Arancini?
+U: Does the Hobson House offer a good view?
+U: Do they have attractive interior decorations?
+
+U: Does it have a clean bathroom?
+U: Is the view from the restaurant rated highly?
+U: Does it mention anything about a comfortable bed?
+
+
+U: Are their restrooms sanitized and pristine?
+
+
+
+U: Does this place have a good view?
+U: Do the rooms have good views?
+
+
+U: Do they have outdoor seating available?
+U: Does it have a good view?
+U: Is it a quiet place?
+U: Does this hotel offer rooms with great views?
+U: Is their internet connectin strong?
+U: Do you know if there's a good view from their rooms?
+U: Is there a good value for the money there?
+
+
+
+U: Will I  be able to enjoy a view from the room?
+U: Does this place have a good view from my room?
+
+
+
+
+
+U: Do they have a large non alcoholic drink menu?
+U: Does alexander bed and breakfast have great views from the rooms?
+
+
+
+
+
+U: Is there a nice view from this restaurant?
+
+U: Is this hotel known for it's clean rooms?
+
+U: Can you tell me with any certainty that this location is really quiet?  That is important to me.
+U: Do they have a good variety in breakfast options?
+
+U: Is that place considered good value for the money?
+U: How's the breakfast offered at the Kirkwood House?
+
+U: Will I get decent value for all the money I spend?
+U: Are their drinks priced reasonably?
+
+U: Do they serve alcohol at the Pizza Hut Cherry Hinton?
+
+U: Does this hotel rooms come with a great view?
+
+U: Do they provide a nice area for outdoor dining?
+
+
+
+U: Do they have clean bathrooms?
+
+
+
+
+U: Would you say overall that they are a quiet place to stay?
+
+
+U: Will it be nice and quiet there?
+U: Do you know if the Lovell Lodge has good views from the property?
+
+
+
+
+U: Is it a good value for the price?
+
+
+
+U: Do they have nice indoor decor?
+U: Is it noisy?
+
+
+
+U: Are the rooms there thoroughly cleaned?
+
+U: Which one is a good dining place with nice indoor decoration?
+U: How large are the rooms?
+
+U: I want a room with a good view, if possible.
+U: Do they have big servings?
+U: I would like for my room to have pleasant sights to enjoy; will this be possible?
+
+U: Are the entrees big enough to be filling?
+
+
+
+
+
+U: Does this place have good views?
+
+U: Actually, do they have any outdoor seating?
+U: Which restaurant has top notch Paella?
+U: How welcoming is the atmosphere?
+U: Is the internet service reliable?
+
+U: Do they have good breakfast in the morning?
+U: Do they serve alcohol?
+
+U: Can you make sure I get a room with a view please?
+U: Are they located in a quiet area?
+U: Yes if it has a good view from the room
+U: Is the wifi stable and reliable?
+
+
+U: Do you know if Nandos City Centre serves alcohol?
+U: Will I have a good view from this room?
+U: Do they have rooms that are large there?
+U: Does this place have a good view of the sea?
+U: Is the staff there welcoming?
+
+U: i need more items in drinks without alcohol
+U: Do the rooms have a great view?
+
+
+
+
+
+U: Is this place quiet?
+
+U: Yes, can you tell me if the room you booked has a good view?
+U: Is the room quiet there?
+U: Is there a fee to use the hotel's WiFi?
+U: Do they offer an American breakfast?
+U: How clean are the rooms?
+U: Will I enjoy the view from my room here?
+
+
+U: Does it have many beer options?
+U: Do rooms at hobsons house have a good view of the surrounding area?
+
+U: Which one provides its customers with a clean bathroom?
+
+
+
+U: How much space do the rooms have?
+
+
+
+U: Can you tell me if they have a large room?
+
+U: Does it have a good view?
+
+U: Does it have a good view from the room?
+
+U: Are the rooms super clean?
+
+U: Can I get a room with a good view?
+
+
+U: Can you tell me if they have nice views from the rooms?
+U: Not yet, could you first let me know whether Hobsons House offers good views from the rooms?
+
+
+U: Does the lovell lodge have clean rooms to stay in?
+U: Does the Ashley Hotel have larger sized rooms?
+U: Which one of them has the best value for the price?
+
+U: Do the reviews mention the beer being a good value for the price?
+
+U: Is the service great?
+
+
+U: Are the rooms kept clean?
+U: Is it nice and quiet here?
+U: Do you know if this place has highly-rated clean bathrooms?
+
+
+U: Is there outdoor seating at the restaurant?
+
+U: Are the rooms cleaned routinely and thoroughly?
+U: Is there a nice view from the room?
+U: Do they have rooms with a nice view?
+
+U: Do they have a large beer selection?
+U: How often does housing keeping come to the room?
+U: Is the internet good?
+
+U: Do they have a variety of quality choices of Merlot?
+U: Does a customer here receive a large amount of food for what they pay?
+U: What's their drink variety like?  I'm looking to have a lot of options
+U: Which of them is located in a better place?
+U: Are there pleasant sights around the Alexander bed and breakfast?
+U: What kind of view can I expect from my room?
+U: Do the rooms come with a nice view?
+U: Do they mention having a good view from the room?
+
+U: Do they have large rooms there?
+
+
+
+
+
+
+U: How is the view from the room?
+
+
+
+
+U: Do you know whether Alexander Bed and Breakfast offers good views from the rooms?
+
+
+
+
+U: I want a place that offers a great view, something really scenic.
+U: The one with the biggest available room please
+
+
+
+U: Do they have a good variety of alcoholic drinks?
+
+
+U: Which one has the better views?
+U: Does the place have appealing and attractive interior decorations?
+U: Do they have many drinks without alcohol in them?
+U: Does it have a nice area for outdoor dining?
+
+U: Can you locate a room there with a great view?
+U: Is it decorated nicely?
+
+U: I'd like to stay somewhere with a big room, do any of them mention that?
+U: Is it quiet?
+U: Is the vibe upbeat and fun?
+
+
+U: Does it serve fresh and quality dumplings?
+
+U: Does it have a nice view from the room?
+
+U: Do you know if Arbury Lodge Guesthouse has friendly and helpful employees?
+
+
+U: Does it have good breakfast options?
+U: Do the rooms have a good view?
+
+
+
+U: Is it in the same area as all the tourist attractions?
+U: Will I be able to drink beer there and not feel like I'm paying too much?
+
+
+
+U: How's the view? I like to look out the window and see the sights from my room.
+U: Is the Avalon easily accessible?
+
+
+U: Are the rooms thoroughly cleaned?
+U: Yes, can you tell me if the hotel have clean and spotless rooms?
+U: I want a room that has a nice view.
+U: Does the view from the dining room justify the price?
+
+
+
+
+
+U: Do the rooms have good views?
+
+
+
+U: Are the rooms clean and sanitary?
+U: Do they have any large rooms available?
+
+
+U: Wait, are the rooms quiet?
+
+U: Do they have a large non alcoholic drink menu ?
+
+U: Do they have excellent wifi connection?
+U: Could you make sure the hotel mattress is very comfortable?
+U: Could you confirm that the Alexander Bed and Breakfast is a soft sounding place to stay?
+U: Do they have a good selection of beer?
+U: I need to be sure that the wifi on site is fast and reliable as my stay will be spent working from my room, can you verify they'll be able to handle my workload?
+U: Are their bathrooms pretty nicely kept up?
+U: Do they have a reasonably priced selection of wines?
+
+
+U: Do they serve large portions here?
+U: How do they rank on interior decoration?
+U: Is it nice and quiet there?
+U: Are they known for having a quiet environment?
+U: Do they have a nice outdoor place for dining?
+
+
+
+U: Is their beer a good value for the money?
+U: Is the location nice?
+U: Does it have nice indoor decor?
+
+
+
+
+
+U: Do they have a good selection of beer?
+U: Which has a nicer outdoor dining area?
+U: Do I get a good view here?
+U: Is it a calm, quiet environment there?
+

@@ -1,0 +1,7 @@
+***** Eval results ver4_clue_maxtokenlimit *****
+BLEU = 6.366484650683548
+rouge1 = 33.11564642359977
+rouge2 = 11.389815823736297
+rougeL = 24.11769127874087
+rougeLsum = 24.11769127874087
+Data Count = 17.157863650598717

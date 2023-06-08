@@ -1,0 +1,7 @@
+***** Eval results pretrain_more_aug_text_1 *****
+BLEU = 8.206550767404789
+rouge1 = 35.9578622167823
+rouge2 = 13.95857030150104
+rougeL = 27.284490260201803
+rougeLsum = 27.284490260201803
+Data Count = 17.14312747339095

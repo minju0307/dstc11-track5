@@ -1,0 +1,12 @@
+***** Eval results submission_finetuning-t5 *****
+BLEU = 9.626507930190153
+rouge1 = 35.767129118843094
+rouge2 = 14.686263166421973
+rougeL = 28.017507309649606
+rougeLsum = 28.017507309649606
+***** Eval results submission_finetuning-t5 *****
+BLEU = 9.626507930190153
+rouge1 = 35.767129118843094
+rouge2 = 14.686263166421973
+rougeL = 28.017507309649606
+rougeLsum = 28.017507309649606

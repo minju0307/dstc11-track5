@@ -1,0 +1,26 @@
+***** Eval results submission_manual_gpt *****
+BLEU = 6.2681759837421325
+***** Eval results submission_manual_gpt *****
+BLEU = 6.2681759837421325
+rouge1 = 33.65629403903484
+rouge2 = 11.7969775342159
+rougeL = 24.437830632632398
+rougeLsum = 24.437830632632398
+***** Eval results submission_manual_gpt *****
+BLEU = 6.2681759837421325
+rouge1 = 33.65629403903484
+rouge2 = 11.7969775342159
+rougeL = 24.437830632632398
+rougeLsum = 24.437830632632398
+***** Eval results submission_manual_gpt *****
+BLEU = 6.2681759837421325
+rouge1 = 33.7044777098137
+rouge2 = 11.813866550012916
+rougeL = 24.472816789586776
+rougeLsum = 24.472816789586776
+***** Eval results submission_manual_gpt *****
+BLEU = 6.2681759837421325
+rouge1 = 33.7044777098137
+rouge2 = 11.813866550012916
+rougeL = 24.472816789586776
+rougeLsum = 24.472816789586776
